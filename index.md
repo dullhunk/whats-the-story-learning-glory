@@ -1,6 +1,6 @@
 ## Teaching and learning
 
-Teaching and learning 
+At the University of Manchester
 
 ### Jekyll Themes
 
