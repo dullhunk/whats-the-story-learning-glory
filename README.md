@@ -1,3 +1,3 @@
 # Teaching and Learning
 
-See [dullhunk.github.io/teaching-and-learning/](https://dullhunk.github.io/teaching-and-learning/)
+See [dullhunk.github.io/show-me-the-pedagogy/](https://dullhunk.github.io/show-me-the-pedagogy/)
