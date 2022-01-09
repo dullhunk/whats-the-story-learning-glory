@@ -1,6 +1,10 @@
-## Show me the pedagogy!
+## More teaching and learning
 
 Here is some demonstration text
+
+### Show me the pedagogy!
+
+Here is some more demonstration text
 
 <!--
 ### Jekyll Themes
