@@ -1,4 +1,4 @@
-## Show me the pedadogy
+## Show me the pedagogy
 
 At the University of Manchester
 
