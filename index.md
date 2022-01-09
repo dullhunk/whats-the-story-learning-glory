@@ -1,6 +1,6 @@
 ## Show me the pedagogy!
 
-Here is some text
+Here is some demonstration text
 
 <!--
 ### Jekyll Themes
