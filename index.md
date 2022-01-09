@@ -4,7 +4,7 @@ Here is some demonstration text
 
 ### Show me the pedagogy!
 
-Here is some more demonstration text
+Here is some more demonstration text for your perusal
 
 <!--
 ### Jekyll Themes
