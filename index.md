@@ -1,6 +1,6 @@
 ## Show me the pedagogy!
 
-At the University of Manchester
+Here is some text
 
 <!--
 ### Jekyll Themes
