@@ -11,7 +11,7 @@ Here are some teaching and learning stories from 2020 and 2021:
    + Raj Ariyaratnam, awarded NTFS in 2020 see [advance-he.ac.uk/ntfs/dr-senathirajah-ariyaratnam](https://www.advance-he.ac.uk/ntfs/dr-senathirajah-ariyaratnam) and [man.ac.uk/yghcG7](http://man.ac.uk/yghcG7)
    + Bhuvaneswari Krishnamoorthy, awarded NTFS in 2020 see [advance-he.ac.uk/ntfs/dr-bhuvaneswari-krishnamoorthy](https://www.advance-he.ac.uk/ntfs/dr-bhuvaneswari-krishnamoorthy)
 
-* **Principal Fellowship of Higher Education Academy** (PFHEA) 
+* **Principal Fellowship of Higher Education Academy** (PFHEA) for demonstrating a “[sustained record of effective strategic leadership in academic practice and academic development](https://www.advance-he.ac.uk/fellowship/principal-fellowship)”
     + Lynne Bianchi see [man.ac.uk/d5hDGX](http://man.ac.uk/d5hDGX)
 * **Teaching Excellence Awards** [staffnet.manchester.ac.uk/umitl/awards/teaching-excellence-awards](https://www.staffnet.manchester.ac.uk/umitl/awards/teaching-excellence-awards/)
     + Amith Jinabhai, see [man.ac.uk/u4tBh9](http://man.ac.uk/u4tBh9) and [man.ac.uk/21RlAf](http://man.ac.uk/21RlAf)
