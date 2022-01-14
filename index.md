@@ -7,18 +7,18 @@ Where all the teaching and learning (T&L) stories?
 Here are some teaching and learning stories from 2020 and 2021:
 
 
-* **National Teaching Fellowships** (NTFS) which “[celebrates and recognises individuals who have made an outstanding impact on student outcomes and the teaching profession in higher education](https://www.advance-he.ac.uk/awards/teaching-excellence-awards/national-teaching-fellowship)”, for example in  2020:
-   + Senathirajah Ariyaratnam: [advance-he.ac.uk/ntfs/dr-senathirajah-ariyaratnam](https://www.advance-he.ac.uk/ntfs/dr-senathirajah-ariyaratnam)
-   + Bhuvaneswari Krishnamoorthy: [advance-he.ac.uk/ntfs/dr-bhuvaneswari-krishnamoorthy](https://www.advance-he.ac.uk/ntfs/dr-bhuvaneswari-krishnamoorthy)
+* **National Teaching Fellowships** (NTFS) which “[celebrates and recognises individuals who have made an outstanding impact on student outcomes and the teaching profession in higher education](https://www.advance-he.ac.uk/awards/teaching-excellence-awards/national-teaching-fellowship)”, for example:
+   + Raj Ariyaratnam, awarded NTFS in 2020 see [advance-he.ac.uk/ntfs/dr-senathirajah-ariyaratnam](https://www.advance-he.ac.uk/ntfs/dr-senathirajah-ariyaratnam) and [man.ac.uk/yghcG7](http://man.ac.uk/yghcG7)
+   + Bhuvaneswari Krishnamoorthy, awarded NTFS in 2020 see [advance-he.ac.uk/ntfs/dr-bhuvaneswari-krishnamoorthy](https://www.advance-he.ac.uk/ntfs/dr-bhuvaneswari-krishnamoorthy)
 
 * **Principal Fellowship of Higher Education Academy** (PFHEA) 
     + Lynne Bianchi see [man.ac.uk/d5hDGX](http://man.ac.uk/d5hDGX)
 * **Teaching Excellence Awards** [staffnet.manchester.ac.uk/umitl/awards/teaching-excellence-awards](https://www.staffnet.manchester.ac.uk/umitl/awards/teaching-excellence-awards/)
-    + Amith Jinabhai see [man.ac.uk/u4tBh9](http://man.ac.uk/u4tBh9) and [man.ac.uk/21RlAf](http://man.ac.uk/21RlAf)
+    + Amith Jinabhai, see [man.ac.uk/u4tBh9](http://man.ac.uk/u4tBh9) and [man.ac.uk/21RlAf](http://man.ac.uk/21RlAf)
     + Holly Morse 
     + Mike Kennard
     + Nick Weise 
-    + Christos Begkos
+    + Christos Begkos, see [man.ac.uk/xhJ9S6](http://man.ac.uk/xhJ9S6)
     + Patricia Perlman-Dee
     + Paul Shore 
     + Marco Gersabeck
@@ -27,27 +27,27 @@ Here are some teaching and learning stories from 2020 and 2021:
     + Richard Prince 
 * **Teacher of the Year Distinguished Achievement Awards** Current and past holders [man.ac.uk/tbeS7U](http://man.ac.uk/tbeS7U)
 *  **Institute of Teaching and Learning Fellows** (past and present) via Judy Williams  [staffnet.manchester.ac.uk/umitl/about/institute-fellows](https://www.staffnet.manchester.ac.uk/umitl/about/institute-fellows/) each of these has a story to tell about T&L
+    + Ralf Becker, see [man.ac.uk/7PWTIc](http://man.ac.uk/7PWTIc)
+    + Jennie Blake, see [man.ac.uk/8WqU1T](http://man.ac.uk/8WqU1T)
     + James Brooks
+    + Steven Broom, see [man.ac.uk/RGykV6](http://man.ac.uk/RGykV6)
+    + Maria Canal, see [man.ac.uk/DuR0iJ](http://man.ac.uk/DuR0iJ)
     + Li-Chia Chen
     + Emily Cooksey
+    + Sally Hickson, see [man.ac.uk/uAqT5Q](http://man.ac.uk/uAqT5Q)
     + Wendell Kimper
+    + Jane Mooney
     + Jen McBride
     + Craig Morley
     + Neil Morrison
     + Thomas Nühse
-    + Emma Ormerod
-    + David Schultz
-    + Stephen Wheeler
-    + Ralf Becker
-    + Jennie Blake
-    + Steven Broom
-    + Maria Canal
-    + Sally Hickson
-    + Jane Mooney
     + Jennifer O'Brien
-    + John Owen
+    + Emma Ormerod
+    + John Owen, see [man.ac.uk/ZqhL49](http://man.ac.uk/ZqhL49)
     + Stephen Pettifer
+    + David Schultz
     + Nick Weise
+    + Stephen Wheeler
 *  **FSE teaching academy** materials developed [elearning.fse.manchester.ac.uk/fseta](https://www.elearning.fse.manchester.ac.uk/fseta/) 
     + Teaching and learning talks [elearning.fse.manchester.ac.uk/fseta/2021/09/24/teaching-and-learning-talk](https://www.elearning.fse.manchester.ac.uk/fseta/2021/09/24/teaching-and-learning-talk/)
     + Teaching academy videos [elearning.fse.manchester.ac.uk/fseta/2020/06/01/ta-bulletin/](https://www.elearning.fse.manchester.ac.uk/fseta/2020/06/01/ta-bulletin/)
