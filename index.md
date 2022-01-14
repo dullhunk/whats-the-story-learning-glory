@@ -7,12 +7,12 @@ Where the teaching and learning stories?
 Here are some teaching and learning stories from 2020 and 2021:
 
 
-* **Senathirajah Ariyaratnam**, National Teaching Fellow in 2020 [advance-he.ac.uk/ntfs/dr-senathirajah-ariyaratnam](https://www.advance-he.ac.uk/ntfs/dr-senathirajah-ariyaratnam)
+* **Senathirajah Ariyaratnam**, Awarded National Teaching Fellowship in 2020 [advance-he.ac.uk/ntfs/dr-senathirajah-ariyaratnam](https://www.advance-he.ac.uk/ntfs/dr-senathirajah-ariyaratnam)
 * **Lynne Bianchi**, Principal Fellowship of Higher Education Academy (PFHEA), but Teaching Academy updates get buried in internal comms with obscure URLs  [man.ac.uk/d5hDGX](http://man.ac.uk/d5hDGX)
-*  **Amith Jinabhai**, teaching excellence award and bring ILOs to life: [blogs.manchester.ac.uk/itl/2021/11/23/bringing-ilos-to-life-for-students](https://blogs.manchester.ac.uk/itl/2021/11/23/bringing-ilos-to-life-for-students/) and [blogs.bmh.manchester.ac.uk/blog/2021/09/14/in-the-spotlight-tea-winner-for-educational-leadership-and-inclusive-education-amit-jinabhai/](https://blogs.bmh.manchester.ac.uk/blog/2021/09/14/in-the-spotlight-tea-winner-for-educational-leadership-and-inclusive-education-amit-jinabhai/)
+*  **Amith Jinabhai**, teaching excellence award and bring ILOs to life: [man.ac.uk/u4tBh9](http://man.ac.uk/u4tBh9) and [man.ac.uk/21RlAf](http://man.ac.uk/21RlAf)
 *  **Bhuvaneswari Krishnamoorthy** Awarded National Teaching Fellowship in 2020 [advance-he.ac.uk/ntfs/dr-bhuvaneswari-krishnamoorthy](https://www.advance-he.ac.uk/ntfs/dr-bhuvaneswari-krishnamoorthy)
 * Teaching Excellence Awards [staffnet.manchester.ac.uk/umitl/awards/teaching-excellence-awards](https://www.staffnet.manchester.ac.uk/umitl/awards/teaching-excellence-awards/)
-* Current and past holders of Teacher of the Year Distinguished Achievement Awards, [staffnet.manchester.ac.uk/fse/teaching-college/news/display/?id=27211](https://www.staffnet.manchester.ac.uk/fse/teaching-college/news/display/?id=27211)
+* Current and past holders of Teacher of the Year Distinguished Achievement Awards, [man.ac.uk/tbeS7U](http://man.ac.uk/tbeS7U)
 *  other stories in Teaching and Learning via Judy Williams, e.g. our internal teaching fellowships [staffnet.manchester.ac.uk/umitl/about/institute-fellows](https://www.staffnet.manchester.ac.uk/umitl/about/institute-fellows/)
 *  new materials at FSE teaching academy [https://www.elearning.fse.manchester.ac.uk/fseta/](www.elearning.fse.manchester.ac.uk/fseta) etc
 *  Outstanding teaching innovation in social responsibility e.g. Laurence Stamford [socialresponsibility.manchester.ac.uk/get-involved/awards/award-categories/#Award2](http://www.socialresponsibility.manchester.ac.uk/get-involved/awards/award-categories/#Award2)
