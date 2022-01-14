@@ -14,7 +14,7 @@ Here are some teaching and learning stories from 2020 and 2021:
 * **Principal Fellowship of Higher Education Academy** (PFHEA) for demonstrating a “[sustained record of effective strategic leadership in academic practice and academic development](https://www.advance-he.ac.uk/fellowship/principal-fellowship)”
     + Lynne Bianchi see [man.ac.uk/d5hDGX](http://man.ac.uk/d5hDGX)
 * **Teaching Excellence Awards** [staffnet.manchester.ac.uk/umitl/awards/teaching-excellence-awards](https://www.staffnet.manchester.ac.uk/umitl/awards/teaching-excellence-awards/)
-    + Amith Jinabhai, see [man.ac.uk/u4tBh9](http://man.ac.uk/u4tBh9) and [man.ac.uk/21RlAf](http://man.ac.uk/21RlAf)
+    + Amit Jinabhai, see [man.ac.uk/u4tBh9](http://man.ac.uk/u4tBh9) and [man.ac.uk/21RlAf](http://man.ac.uk/21RlAf)
     + Holly Morse 
     + Mike Kennard
     + Nick Weise 
