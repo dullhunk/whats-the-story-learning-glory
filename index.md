@@ -12,12 +12,12 @@ Here are some teaching and learning stories from 2020 and 2021:
    + Bhuvaneswari Krishnamoorthy, awarded NTFS in 2020 see [advance-he.ac.uk/ntfs/dr-bhuvaneswari-krishnamoorthy](https://www.advance-he.ac.uk/ntfs/dr-bhuvaneswari-krishnamoorthy)
 
 * **Principal Fellowship of Higher Education Academy** (PFHEA) for demonstrating a “[sustained record of effective strategic leadership in academic practice and academic development](https://www.advance-he.ac.uk/fellowship/principal-fellowship)”
-    + Lynne Bianchi see [man.ac.uk/d5hDGX](http://man.ac.uk/d5hDGX)
+    + Lynne Bianchi, see [man.ac.uk/d5hDGX](http://man.ac.uk/d5hDGX)
 * **Teaching Excellence Awards** [staffnet.manchester.ac.uk/umitl/awards/teaching-excellence-awards](https://www.staffnet.manchester.ac.uk/umitl/awards/teaching-excellence-awards/)
     + Amit Jinabhai, see [man.ac.uk/u4tBh9](http://man.ac.uk/u4tBh9) and [man.ac.uk/21RlAf](http://man.ac.uk/21RlAf)
     + Holly Morse 
     + Mike Kennard
-    + Nick Weise 
+    + Nick Weise, see [man.ac.uk/dS3Mbb](http://man.ac.uk/dS3Mbb) 
     + Christos Begkos, see [man.ac.uk/xhJ9S6](http://man.ac.uk/xhJ9S6)
     + Patricia Perlman-Dee
     + Paul Shore 
@@ -26,7 +26,7 @@ Here are some teaching and learning stories from 2020 and 2021:
     + Hiten Mitha 
     + Richard Prince 
 * **Teacher of the Year Distinguished Achievement Awards** Current and past holders [man.ac.uk/tbeS7U](http://man.ac.uk/tbeS7U)
-*  **Institute of Teaching and Learning Fellows** (past and present) via Judy Williams  [staffnet.manchester.ac.uk/umitl/about/institute-fellows](https://www.staffnet.manchester.ac.uk/umitl/about/institute-fellows/) each of these has a story to tell about T&L
+*  **Institute of Teaching and Learning Fellows** (past and present) (contact [Judy Williams](https://www.research.manchester.ac.uk/portal/judy.williams.html)) see  [staffnet.manchester.ac.uk/umitl/about/institute-fellows](https://www.staffnet.manchester.ac.uk/umitl/about/institute-fellows/) each of these has a story to tell about T&L
     + Ralf Becker, see [man.ac.uk/7PWTIc](http://man.ac.uk/7PWTIc)
     + Jennie Blake, see [man.ac.uk/8WqU1T](http://man.ac.uk/8WqU1T)
     + James Brooks
@@ -48,10 +48,10 @@ Here are some teaching and learning stories from 2020 and 2021:
     + David Schultz
     + Nick Weise
     + Stephen Wheeler
-*  **FSE teaching academy** materials developed [elearning.fse.manchester.ac.uk/fseta](https://www.elearning.fse.manchester.ac.uk/fseta/) 
+*  **FSE teaching academy** materials developed [elearning.fse.manchester.ac.uk/fseta](https://www.elearning.fse.manchester.ac.uk/fseta/) (contact [Andy Weightman](https://www.research.manchester.ac.uk/portal/andrew.weightman.html))
     + Teaching and learning talks [elearning.fse.manchester.ac.uk/fseta/2021/09/24/teaching-and-learning-talk](https://www.elearning.fse.manchester.ac.uk/fseta/2021/09/24/teaching-and-learning-talk/)
     + Teaching academy videos [elearning.fse.manchester.ac.uk/fseta/2020/06/01/ta-bulletin/](https://www.elearning.fse.manchester.ac.uk/fseta/2020/06/01/ta-bulletin/)
-*  **Outstanding teaching innovation in social responsibility** for example:
+*  **Outstanding teaching innovation in social responsibility** (contact [Julian Skyrme](https://www.julianskyrme.com/contact)) for example:
     + Laurence Stamford [socialresponsibility.manchester.ac.uk/get-involved/awards/award-categories/#Award2](http://www.socialresponsibility.manchester.ac.uk/get-involved/awards/award-categories/#Award2)
 
 * **Collaborative Award for Teaching Excellence** (CATE)
