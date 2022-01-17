@@ -4,7 +4,8 @@ Where all the teaching and learning (T&L) stories?
 
 <!--
 for Matthew Moth, appointed as Director of Communications May 2021
-https://www.staffnet.manchester.ac.uk/news/display/?id=26307-->
+https://www.staffnet.manchester.ac.uk/news/display/?id=26307
+-->
 
 ### Show me the pedagogy!
 
@@ -19,16 +20,16 @@ Here are some teaching and learning stories from 2020 and 2021:
     + Lynne Bianchi, see [man.ac.uk/d5hDGX](http://man.ac.uk/d5hDGX)
 * **Teaching Excellence Awards** [staffnet.manchester.ac.uk/umitl/awards/teaching-excellence-awards](https://www.staffnet.manchester.ac.uk/umitl/awards/teaching-excellence-awards/)
     + Amit Jinabhai, see [man.ac.uk/u4tBh9](http://man.ac.uk/u4tBh9) and [man.ac.uk/21RlAf](http://man.ac.uk/21RlAf)
-    + Holly Morse 
+    + Holly Morse
     + Mike Kennard
-    + Nick Weise, see [man.ac.uk/dS3Mbb](http://man.ac.uk/dS3Mbb) 
+    + Nick Weise, see [man.ac.uk/dS3Mbb](http://man.ac.uk/dS3Mbb)
     + Christos Begkos, see [man.ac.uk/xhJ9S6](http://man.ac.uk/xhJ9S6)
     + Patricia Perlman-Dee
-    + Paul Shore 
+    + Paul Shore
     + Marco Gersabeck
     + Alexandros Kafkas
-    + Hiten Mitha 
-    + Richard Prince 
+    + Hiten Mitha
+    + Richard Prince
 * **Teacher of the Year Distinguished Achievement Awards** Current and past holders [man.ac.uk/tbeS7U](http://man.ac.uk/tbeS7U)
 *  **Institute of Teaching and Learning Fellows** (past and present) (contact [Judy Williams](https://www.research.manchester.ac.uk/portal/judy.williams.html)) see  [staffnet.manchester.ac.uk/umitl/about/institute-fellows](https://www.staffnet.manchester.ac.uk/umitl/about/institute-fellows/) each of these has a story to tell about T&L
     + Ralf Becker, see [man.ac.uk/7PWTIc](http://man.ac.uk/7PWTIc)
