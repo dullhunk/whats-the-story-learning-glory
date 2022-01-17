@@ -1,3 +1,3 @@
 # Teaching and Learning
 
-See [dullhunk.github.io/more-teaching-and-learning/](https://dullhunk.github.io/more-teaching-and-learning/)
+See [dullhunk.github.io/whats-the-story-learning-glory](https://dullhunk.github.io/whats-the-story-learning-glory/)
