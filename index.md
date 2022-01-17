@@ -2,6 +2,10 @@
 
 Where all the teaching and learning (T&L) stories?
 
+<!--
+for Matthew Moth, appointed as Director of Communications May 2021
+https://www.staffnet.manchester.ac.uk/news/display/?id=26307-->
+
 ### Show me the pedagogy!
 
 Here are some teaching and learning stories from 2020 and 2021:
