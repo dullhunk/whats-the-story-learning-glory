@@ -56,8 +56,8 @@ Here are some teaching and learning stories from 2020 and 2021:
 *  **FSE teaching academy** materials developed [elearning.fse.manchester.ac.uk/fseta](https://www.elearning.fse.manchester.ac.uk/fseta/) (contact [Andy Weightman](https://www.research.manchester.ac.uk/portal/andrew.weightman.html))
     + Teaching and learning talks [elearning.fse.manchester.ac.uk/fseta/2021/09/24/teaching-and-learning-talk](https://www.elearning.fse.manchester.ac.uk/fseta/2021/09/24/teaching-and-learning-talk/)
     + Teaching academy videos [elearning.fse.manchester.ac.uk/fseta/2020/06/01/ta-bulletin/](https://www.elearning.fse.manchester.ac.uk/fseta/2020/06/01/ta-bulletin/)
-*  **Outstanding teaching innovation in social responsibility** (contact [Julian Skyrme](https://www.julianskyrme.com/contact)) for example:
-    + Laurence Stamford [socialresponsibility.manchester.ac.uk/get-involved/awards/award-categories/#Award2](http://www.socialresponsibility.manchester.ac.uk/get-involved/awards/award-categories/#Award2)
+*  **Outstanding teaching innovation in social responsibility**, [socialresponsibility.manchester.ac.uk/get-involved/awards/award-categories/#Award2](http://www.socialresponsibility.manchester.ac.uk/get-involved/awards/award-categories/#Award2) contact [Julian Skyrme](https://www.julianskyrme.com/contact) for example:
+    + Laurence Stamford [man.ac.uk/YdTK2b](http://man.ac.uk/YdTK2b)
 
 * **Collaborative Award for Teaching Excellence** (CATE)
     +  any CATE winners from Manchester yet? It looks like there haven't been
