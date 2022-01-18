@@ -59,7 +59,7 @@ Here are some teaching and learning stories from 2020 and 2021:
 *  **Outstanding teaching innovation in social responsibility**, [socialresponsibility.manchester.ac.uk/get-involved/awards/award-categories/#Award2](http://www.socialresponsibility.manchester.ac.uk/get-involved/awards/award-categories/#Award2) contact [Julian Skyrme](https://www.julianskyrme.com/contact) for example:
     + Laurence Stamford [man.ac.uk/YdTK2b](http://man.ac.uk/YdTK2b)
 
-* **Collaborative Award for Teaching Excellence** (CATE)
+* **Collaborative Award for Teaching Excellence** (CATE) recognises and celebrates [collaborative work that has had a demonstrable impact on teaching and learning](https://www.advance-he.ac.uk/awards/teaching-excellence-awards/collaborative-award-for-teaching-excellence) 
     +  any CATE winners from Manchester yet? It looks like there haven't been
 
 <!--
