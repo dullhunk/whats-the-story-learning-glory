@@ -14,10 +14,11 @@ Here are some teaching and learning stories from 2020 and 2021:
 
 * **National Teaching Fellowships** (NTFS) are awards which “[celebrates and recognises individuals who have made an outstanding impact on student outcomes and the teaching profession in higher education](https://www.advance-he.ac.uk/awards/teaching-excellence-awards/national-teaching-fellowship)”, for example:
    + Raj Ariyaratnam, awarded NTFS in 2020 see [advance-he.ac.uk/ntfs/dr-senathirajah-ariyaratnam](https://www.advance-he.ac.uk/ntfs/dr-senathirajah-ariyaratnam) and [man.ac.uk/yghcG7](http://man.ac.uk/yghcG7)
+   + Jackie Carter, awarded NTFS in ??? see [man.ac.uk/sCT52A](http://man.ac.uk/sCT52A)
    + Bhuvaneswari Krishnamoorthy, awarded NTFS in 2020 see [advance-he.ac.uk/ntfs/dr-bhuvaneswari-krishnamoorthy](https://www.advance-he.ac.uk/ntfs/dr-bhuvaneswari-krishnamoorthy)
 
 * **Principal Fellowship of Higher Education Academy** (PFHEA) are awards for individuals who demonstrate a “[sustained record of effective strategic leadership in academic practice and academic development](https://www.advance-he.ac.uk/fellowship/principal-fellowship)”
-    + Lynne Bianchi, see [man.ac.uk/d5hDGX](http://man.ac.uk/d5hDGX)
+    + Lynne Bianchi, see [man.ac.uk/d5hDGX](http://man.ac.uk/d5hDGX) and [man.ac.uk/IXo19M](http://man.ac.uk/IXo19M)
 * **Teaching Excellence Awards** are made in recognition of significant and sustained commitment to excellence in the delivery and/or support of teaching and learning: [staffnet.manchester.ac.uk/umitl/awards/teaching-excellence-awards](https://www.staffnet.manchester.ac.uk/umitl/awards/teaching-excellence-awards/), see for example:
     + Amit Jinabhai, see [man.ac.uk/u4tBh9](http://man.ac.uk/u4tBh9) and [man.ac.uk/21RlAf](http://man.ac.uk/21RlAf)
     + Holly Morse
@@ -59,7 +60,7 @@ Here are some teaching and learning stories from 2020 and 2021:
 *  **Outstanding teaching innovation in social responsibility**, [socialresponsibility.manchester.ac.uk/get-involved/awards/award-categories/#Award2](http://www.socialresponsibility.manchester.ac.uk/get-involved/awards/award-categories/#Award2) contact [Julian Skyrme](https://www.julianskyrme.com/contact) for example:
     + Laurence Stamford [man.ac.uk/YdTK2b](http://man.ac.uk/YdTK2b)
 
-* **Collaborative Award for Teaching Excellence** (CATE) recognises and celebrates [collaborative work that has had a demonstrable impact on teaching and learning](https://www.advance-he.ac.uk/awards/teaching-excellence-awards/collaborative-award-for-teaching-excellence) 
+* **Collaborative Award for Teaching Excellence** (CATE) recognises and celebrates [collaborative work that has had a demonstrable impact on teaching and learning](https://www.advance-he.ac.uk/awards/teaching-excellence-awards/collaborative-award-for-teaching-excellence)
     +  any CATE winners from Manchester yet? It looks like there haven't been
 
 <!--
