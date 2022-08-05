@@ -14,8 +14,9 @@ Here are some teaching and learning stories from 2020 and 2021:
 
 * **National Teaching Fellowships** (NTFS) are awards which “[celebrates and recognises individuals who have made an outstanding impact on student outcomes and the teaching profession in higher education](https://www.advance-he.ac.uk/awards/teaching-excellence-awards/national-teaching-fellowship)”, for example:
    + Raj Ariyaratnam, awarded NTFS in 2020 see [advance-he.ac.uk/ntfs/dr-senathirajah-ariyaratnam](https://www.advance-he.ac.uk/ntfs/dr-senathirajah-ariyaratnam) and [man.ac.uk/yghcG7](http://man.ac.uk/yghcG7)
-   + Jackie Carter, awarded NTFS in ??? see [man.ac.uk/sCT52A](http://man.ac.uk/sCT52A)
+   + Jackie Carter, awarded NTFS in 2020 see [man.ac.uk/sCT52A](http://man.ac.uk/sCT52A)
    + Bhuvaneswari Krishnamoorthy, awarded NTFS in 2020 see [advance-he.ac.uk/ntfs/dr-bhuvaneswari-krishnamoorthy](https://www.advance-he.ac.uk/ntfs/dr-bhuvaneswari-krishnamoorthy)
+   + Hannah Cobb and Adam Danquah, see [man.ac.uk/a5szM1](http://man.ac.uk/a5szM1)
 
 * **Principal Fellowship of Higher Education Academy** (PFHEA) are awards for individuals who demonstrate a “[sustained record of effective strategic leadership in academic practice and academic development](https://www.advance-he.ac.uk/fellowship/principal-fellowship)”
     + Lynne Bianchi, see [man.ac.uk/d5hDGX](http://man.ac.uk/d5hDGX) and [man.ac.uk/IXo19M](http://man.ac.uk/IXo19M)
