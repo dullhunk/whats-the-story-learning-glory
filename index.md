@@ -47,7 +47,7 @@ Here are some teaching and learning stories from 2020 and 2021:
     + Jen McBride
     + Craig Morley
     + Neil Morrison
-    + Thomas Nühse
+    + Thomas Nühse, see [man.ac.uk/uBKQ1D](http://man.ac.uk/uBKQ1D)
     + Jennifer O'Brien
     + Emma Ormerod
     + John Owen, see [man.ac.uk/ZqhL49](http://man.ac.uk/ZqhL49)
