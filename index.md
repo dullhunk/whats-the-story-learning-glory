@@ -7,7 +7,7 @@ for Matthew Moth, appointed as Director of Communications May 2021
 https://www.staffnet.manchester.ac.uk/news/display/?id=26307
 -->
 
-### Learning glory!
+## Learning glory!
 
 There's plenty of (glorious) teaching and learning stories that are being overlooked. Here is a small selection from the University of Manchester between 2020 and 2022:
 
