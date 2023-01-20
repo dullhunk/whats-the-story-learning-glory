@@ -1,13 +1,20 @@
-## What's the story?
+# What's the story?
 
 Where all the teaching and learning (T&L) stories?
+
+
+| Words / Year                         |       2018  |      2019   |     2020    |      2021    |     2022    |
+| -------------------------- | ---------- |---------- |---------- |---------- |---------- |
+| TEACH* or LEARN*              | 1               |2                |3                |0                |1                |
+| RESEARCH*                          | 9               |13               |34             |19               |19              |
+| Article source                       | #293               |#292           | #290        | #289         | #286        |
 
 <!--
 for Matthew Moth, appointed as Director of Communications May 2021
 https://www.staffnet.manchester.ac.uk/news/display/?id=26307
 -->
 
-## Learning glory!
+# Learning glory?
 
 There's plenty of (glorious) teaching and learning stories that are being overlooked. Here is a small selection from the University of Manchester between 2020 and 2022:
 
