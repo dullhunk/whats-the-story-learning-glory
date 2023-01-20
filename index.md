@@ -1,4 +1,4 @@
-## What's the story, learning glory?
+## What's the story?
 
 Where all the teaching and learning (T&L) stories?
 
@@ -7,9 +7,9 @@ for Matthew Moth, appointed as Director of Communications May 2021
 https://www.staffnet.manchester.ac.uk/news/display/?id=26307
 -->
 
-### Show me the pedagogy!
+### Learning glory!
 
-Here are some teaching and learning stories from 2020 and 2021:
+There's plenty of (glorious) teaching and learning stories that are being overlooked. Here is a small selection from 2020 to 2022:
 
 
 * **National Teaching Fellowships** (NTFS) are awards which “[celebrates and recognises individuals who have made an outstanding impact on student outcomes and the teaching profession in higher education](https://www.advance-he.ac.uk/awards/teaching-excellence-awards/national-teaching-fellowship)”, for example:
@@ -20,6 +20,7 @@ Here are some teaching and learning stories from 2020 and 2021:
 
 * **Principal Fellowship of Higher Education Academy** (PFHEA) are awards for individuals who demonstrate a “[sustained record of effective strategic leadership in academic practice and academic development](https://www.advance-he.ac.uk/fellowship/principal-fellowship)”
     + Lynne Bianchi, see [man.ac.uk/d5hDGX](http://man.ac.uk/d5hDGX) and [man.ac.uk/IXo19M](http://man.ac.uk/IXo19M)
+    + Jen O'Brien, https://www.youtube.com/watch?v=81EuhXAo8i0
 * **Teaching Excellence Awards** are made in recognition of significant and sustained commitment to excellence in the delivery and/or support of teaching and learning: [staffnet.manchester.ac.uk/umitl/awards/teaching-excellence-awards](https://www.staffnet.manchester.ac.uk/umitl/awards/teaching-excellence-awards/), see for example:
     + Amit Jinabhai, see [man.ac.uk/u4tBh9](http://man.ac.uk/u4tBh9) and [man.ac.uk/21RlAf](http://man.ac.uk/21RlAf)
     + Holly Morse
