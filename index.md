@@ -9,7 +9,7 @@ https://www.staffnet.manchester.ac.uk/news/display/?id=26307
 
 ### Learning glory!
 
-There's plenty of (glorious) teaching and learning stories that are being overlooked. Here is a small selection from 2020 to 2022:
+There's plenty of (glorious) teaching and learning stories that are being overlooked. Here is a small selection from the University of Manchester between 2020 and 2022:
 
 
 * **National Teaching Fellowships** (NTFS) are awards which “[celebrates and recognises individuals who have made an outstanding impact on student outcomes and the teaching profession in higher education](https://www.advance-he.ac.uk/awards/teaching-excellence-awards/national-teaching-fellowship)”, for example:
@@ -63,8 +63,7 @@ There's plenty of (glorious) teaching and learning stories that are being overlo
     + Laurence Stamford [man.ac.uk/YdTK2b](http://man.ac.uk/YdTK2b)
 
 * **Teaching awards**
-
-* teaching awards [www.staffnet.manchester.ac.uk/news/display/?id=28879](https://www.staffnet.manchester.ac.uk/news/display/?id=28879)
+    + teaching awards [www.staffnet.manchester.ac.uk/news/display/?id=28879](https://www.staffnet.manchester.ac.uk/news/display/?id=28879)
 
 * **Collaborative Award for Teaching Excellence** (CATE) recognises and celebrates [collaborative work that has had a demonstrable impact on teaching and learning](https://www.advance-he.ac.uk/awards/teaching-excellence-awards/collaborative-award-for-teaching-excellence)
     +  any CATE winners from Manchester yet? It looks like there haven't been
