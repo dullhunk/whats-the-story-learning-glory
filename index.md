@@ -64,6 +64,7 @@ There's plenty of (glorious) teaching and learning stories that are being overlo
 
 * **Teaching awards**
     + teaching awards [www.staffnet.manchester.ac.uk/news/display/?id=28879](https://www.staffnet.manchester.ac.uk/news/display/?id=28879)
+    + Ben Parslew, drone from home https://blogs.manchester.ac.uk/itl/2022/10/28/tea-winner-2021-ben-parslew-and-drone-from-home-building-social-impact-into-courses/
 
 * **Collaborative Award for Teaching Excellence** (CATE) recognises and celebrates [collaborative work that has had a demonstrable impact on teaching and learning](https://www.advance-he.ac.uk/awards/teaching-excellence-awards/collaborative-award-for-teaching-excellence)
     +  any CATE winners from Manchester yet? It looks like there haven't been
