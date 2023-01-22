@@ -91,7 +91,7 @@ So where all the teaching and learning stories?
 
 *PROBLEM NO. 2* Teachers don't tell their teaching and learning stories, so there is nothing for the communications team to overlook. 
 
-We need to solve both these problems if we want niversities want to be better understood. They need be telling lots more stories about the learning they enable for the students that they teach.
+We need to solve both of these problems. If Universities want to be better understood, they need be telling lots more stories about the learning they enable for the students that they teach.
 
 So what's your story, learning glory?
 
