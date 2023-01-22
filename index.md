@@ -59,7 +59,7 @@ There's plenty of (glorious) teaching and learning stories that are being overlo
     + Jennifer O'Brien
     + Emma Ormerod
     + John Owen, see [man.ac.uk/ZqhL49](http://man.ac.uk/ZqhL49)
-    + Stephen Pettifer
+    + Stephen Pettifer, see flexible learning strategy [https://documents.manchester.ac.uk/display.aspx?DocID=64389](https://documents.manchester.ac.uk/display.aspx?DocID=64389)
     + David Schultz
     + Nick Weise
     + Stephen Wheeler
@@ -71,8 +71,8 @@ There's plenty of (glorious) teaching and learning stories that are being overlo
 
 * **Teaching awards**
     + teaching awards [www.staffnet.manchester.ac.uk/news/display/?id=28879](https://www.staffnet.manchester.ac.uk/news/display/?id=28879)
-    + Ben Parslew, drone from home https://blogs.manchester.ac.uk/itl/2022/10/28/tea-winner-2021-ben-parslew-and-drone-from-home-building-social-impact-into-courses/
-    + Ben Chapman https://blogs.manchester.ac.uk/itl/2022/09/26/teacher-of-the-year-2021-fbmh-education-engagement-and-entertainment/
+    + Ben Parslew, drone from home [blogs.manchester.ac.uk/itl/2022/10/28/tea-winner-2021-ben-parslew-and-drone-from-home-building-social-impact-into-courses/](https://blogs.manchester.ac.uk/itl/2022/10/28/tea-winner-2021-ben-parslew-and-drone-from-home-building-social-impact-into-courses/)
+    + Ben Chapman [blogs.manchester.ac.uk/itl/2022/09/26/teacher-of-the-year-2021-fbmh-education-engagement-and-entertainment/](https://blogs.manchester.ac.uk/itl/2022/09/26/teacher-of-the-year-2021-fbmh-education-engagement-and-entertainment/)
 
 * **Collaborative Award for Teaching Excellence** (CATE) recognises and celebrates [collaborative work that has had a demonstrable impact on teaching and learning](https://www.advance-he.ac.uk/awards/teaching-excellence-awards/collaborative-award-for-teaching-excellence)
     +  any CATE winners from Manchester yet? It looks like there haven't been
