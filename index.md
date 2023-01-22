@@ -1,6 +1,6 @@
 # What's the story, learning glory?
 
-There are plenty of stories we can tell about how teaching and learning have changed in higher education in the last three years. Unfortunately, these stories are either untold or overlooked. If Universities want to be better understood, they need be telling more stories about the learning they enable for the students that they teach, argues Duncan Hull.
+There are plenty of stories we can tell about how teaching and learning have changed in higher education in the last three years. Unfortunately, these stories are either untold or overlooked. If Universities want to be better understood, they need be telling lots more stories about the learning they enable for the students that they teach, argues Duncan Hull.
 
 ## What's the story?
 
