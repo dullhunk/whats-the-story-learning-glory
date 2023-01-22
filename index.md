@@ -28,7 +28,7 @@ So where all the teaching and learning stories?
 
 ## Learning glory?
 
-*PROBLEM no.1*: Any stories that are being told are also being overlooked. Here is a small selection of overlooked stories from the University of Manchester between 2020 and 2023. NONE of them made the annual press release from the communications team.
+*PROBLEM NO.1*: Any stories that are being told are also being overlooked. Here is a small selection of overlooked stories from the University of Manchester between 2020 and 2023. NONE of them made the annual press release from the communications team.
 
 
 * **National Teaching Fellowships** (NTFS) are awards which “[celebrates and recognises individuals who have made an outstanding impact on student outcomes and the teaching profession in higher education](https://www.advance-he.ac.uk/awards/teaching-excellence-awards/national-teaching-fellowship)”, for example:
@@ -89,7 +89,9 @@ So where all the teaching and learning stories?
 * **Collaborative Award for Teaching Excellence** (CATE) recognises and celebrates [collaborative work that has had a demonstrable impact on teaching and learning](https://www.advance-he.ac.uk/awards/teaching-excellence-awards/collaborative-award-for-teaching-excellence)
     +  No CATE winners from Manchester yet as far as I can see
 
-*PROBLEM NO. 2* Teachers don't tell their teaching and learning stories, so there'e nothing for the communications team to overlook. 
+*PROBLEM NO. 2* Teachers don't tell their teaching and learning stories, so there is nothing for the communications team to overlook. 
+
+We need to solve both these problems if we want niversities want to be better understood. They need be telling lots more stories about the learning they enable for the students that they teach.
 
 So what's your story, learning glory?
 
