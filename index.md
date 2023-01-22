@@ -1,8 +1,8 @@
-# What's the story, learning glory?
+# What's your story, learning glory?
 
 There are plenty of stories we can tell about how teaching and learning have changed in higher education in the last three years. Unfortunately, these stories are either untold or overlooked. If Universities want to be better understood, they need be telling lots more stories about the learning they enable for the students that they teach, argues Duncan Hull.
 
-## What's the story?
+## What's your story?
 
 I counted the occurrences of keywords in five annual press releases that get emailed to the inbox of every member of staff at the end of each year. You can repeat this analysis on any University press release as follows:
 
@@ -89,7 +89,7 @@ So where all the teaching and learning stories?
 * **Collaborative Award for Teaching Excellence** (CATE) recognises and celebrates [collaborative work that has had a demonstrable impact on teaching and learning](https://www.advance-he.ac.uk/awards/teaching-excellence-awards/collaborative-award-for-teaching-excellence)
     +  No CATE winners from Manchester yet as far as I can see
 
-*PROBLEM NO. 2* Teachers don't tell their teaching and learning stories, so there is nothing for the communications team to overlook. 
+*PROBLEM NO. 2*: Teachers don't tell their teaching and learning stories, so there is nothing for the communications team to overlook in the first place.
 
 We need to solve both of these problems. If Universities want to be better understood, they need be telling lots more stories about the learning they enable for the students that they teach.
 
