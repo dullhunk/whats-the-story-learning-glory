@@ -27,14 +27,14 @@ There's plenty of (glorious) teaching and learning stories that are being overlo
 
 * **Principal Fellowship of Higher Education Academy** (PFHEA) are awards for individuals who demonstrate a “[sustained record of effective strategic leadership in academic practice and academic development](https://www.advance-he.ac.uk/fellowship/principal-fellowship)”
     + Lynne Bianchi, see [man.ac.uk/d5hDGX](http://man.ac.uk/d5hDGX) and [man.ac.uk/IXo19M](http://man.ac.uk/IXo19M)
-    + Jen O'Brien, see https://www.youtube.com/watch?v=81EuhXAo8i0 and https://blogs.manchester.ac.uk/itl/2023/01/16/brave-spaces-of-teaching-and-learning-that-effect-change-for-sustainable-development/
+    + Jen O'Brien, see [blogs.manchester.ac.uk/itl/2023/01/16/brave-spaces-of-teaching-and-learning-that-effect-change-for-sustainable-development/](https://blogs.manchester.ac.uk/itl/2023/01/16/brave-spaces-of-teaching-and-learning-that-effect-change-for-sustainable-development/)
 * **Teaching Excellence Awards** are made in recognition of significant and sustained commitment to excellence in the delivery and/or support of teaching and learning: [staffnet.manchester.ac.uk/umitl/awards/teaching-excellence-awards](https://www.staffnet.manchester.ac.uk/umitl/awards/teaching-excellence-awards/), see for example:
     + Amit Jinabhai, see [man.ac.uk/u4tBh9](http://man.ac.uk/u4tBh9) and [man.ac.uk/21RlAf](http://man.ac.uk/21RlAf)
     + Holly Morse
     + Mike Kennard
     + Nick Weise, see [man.ac.uk/dS3Mbb](http://man.ac.uk/dS3Mbb)
     + Christos Begkos, see [man.ac.uk/xhJ9S6](http://man.ac.uk/xhJ9S6)
-    + Patricia Perlman-Dee, see https://blogs.manchester.ac.uk/itl/2022/05/20/teaching-innovation-i-am-always-willing-to-try-new-things/
+    + Patricia Perlman-Dee, see [blogs.manchester.ac.uk/itl/2022/05/20/teaching-innovation-i-am-always-willing-to-try-new-things/](https://blogs.manchester.ac.uk/itl/2022/05/20/teaching-innovation-i-am-always-willing-to-try-new-things/)
     + Paul Shore
     + Marco Gersabeck
     + Alexandros Kafkas
