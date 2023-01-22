@@ -6,17 +6,17 @@ There are plenty of stories we can tell about how teaching and learning have cha
 
 I counted the occurrences of keywords in five annual press releases that get emailed to the inbox of every member of staff at the end of each year. You can repeat this analysis on any University press release as follows:
 
-1. Count the words that begin with the LEARN* or TEACH*
-1. Count the words with the RESEARCH*
+1. Count the words that begin with LEARN* or TEACH*
+1. Count the words with RESEARCH*
 1. Calculate the ratio of the two numbers you've just counted
 
-
+Here's the results for the University of Manchester
 
 | Words / Year                         |       2018  |      2019   |     2020    |      2021    |     2022    |
 | -------------------------- | ---------- |---------- |---------- |---------- |---------- |
 | TEACH* or LEARN*              | 1               |2                |3                |0                |1                |
 | RESEARCH*                          | 9               |13               |34             |19               |19              |
-| Article source                       | #293               |#292           | [part1](https://www.manchester.ac.uk/discover/news/the-2020-review-of-the-year---part-one/)        | #289         | #286        |
+| Article source                       | [2018](https://www.manchester.ac.uk/discover/news/2018-review-year/)               |[2019](https://www.manchester.ac.uk/discover/news/the-2019-review-of-the-year/)           | [20](https://www.manchester.ac.uk/discover/news/the-2020-review-of-the-year---part-one/)/[20](https://www.manchester.ac.uk/discover/news/the-2020-review-of-the-year---part-two/)       | [2021](https://www.manchester.ac.uk/discover/news/the-2021-review-of-the-year/)         | [2022](https://www.manchester.ac.uk/discover/news/the-2022-review-of-the-year/)        |
 
 <!--
 for Matthew Moth, appointed as Director of Communications May 2021
@@ -28,7 +28,7 @@ So where all the teaching and learning stories?
 
 ## Learning glory?
 
-There's plenty of teaching and learning stories that are being overlooked. Here is a small selection from the University of Manchester between 2020 and 2023. NONE of them made the annual press release from the communications team.
+Any stories that are being told are also being overlooked. Here is a small selection from the University of Manchester between 2020 and 2023. NONE of them made the annual press release from the communications team.
 
 
 * **National Teaching Fellowships** (NTFS) are awards which “[celebrates and recognises individuals who have made an outstanding impact on student outcomes and the teaching profession in higher education](https://www.advance-he.ac.uk/awards/teaching-excellence-awards/national-teaching-fellowship)”, for example:
