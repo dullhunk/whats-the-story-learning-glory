@@ -1,6 +1,6 @@
 # What's your story, learning glory?
 
-There are plenty of stories we can tell about how teaching and learning have changed in higher education in the last three years. Unfortunately, these stories are either untold or overlooked. If Universities want to be better understood, they need be telling lots more stories about the learning they enable for the students that they teach, argues Duncan Hull.
+There are plenty of stories we can tell about how teaching and learning have changed in higher education in the last three years. Unfortunately, these stories are either untold or overlooked. If Universities want to be better understood, they need be telling lots more stories about the learning they enable for the students that they teach.
 
 ## What's your story?
 
@@ -28,7 +28,7 @@ So where all the teaching and learning stories?
 
 ## Learning glory?
 
-*PROBLEM NO.1*: Any stories that are being told are also being overlooked. Here is a small selection of overlooked stories from the University of Manchester between 2020 and 2023. NONE of them made the annual press release from the communications team.
+*PROBLEM NO.1*: Any stories that are being told are also being overlooked. Here is a small selection of overlooked stories from the University of Manchester between 2020 and 2023. NONE of them made it into press releases (annual or otherwise) from the media relations team.
 
 
 * **National Teaching Fellowships** (NTFS) are awards which “[celebrates and recognises individuals who have made an outstanding impact on student outcomes and the teaching profession in higher education](https://www.advance-he.ac.uk/awards/teaching-excellence-awards/national-teaching-fellowship)”, for example:
@@ -72,7 +72,7 @@ So where all the teaching and learning stories?
     + Emma Ormerod
     + John Owen, see [man.ac.uk/ZqhL49](http://man.ac.uk/ZqhL49)
     + Stephen Pettifer, see flexible learning strategy [https://documents.manchester.ac.uk/display.aspx?DocID=64389](https://documents.manchester.ac.uk/display.aspx?DocID=64389)
-    + David Schultz
+    + David Schultz, see [blogs.manchester.ac.uk/itl/2023/01/20/designing-better-assessmenta-through-innovative-testing-methadology/](https://blogs.manchester.ac.uk/itl/2023/01/20/designing-better-assessmenta-through-innovative-testing-methadology/)
     + Nick Weise
     + Stephen Wheeler
 *  **FSE teaching academy** materials developed [elearning.fse.manchester.ac.uk/fseta](https://www.elearning.fse.manchester.ac.uk/fseta/) (contact [Andy Weightman](https://www.research.manchester.ac.uk/portal/andrew.weightman.html))
