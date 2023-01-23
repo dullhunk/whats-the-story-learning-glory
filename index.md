@@ -56,7 +56,7 @@ So where all the teaching and learning stories?
 *  **Institute of Teaching and Learning Fellows** (past and present) (contact [Judy Williams](https://www.research.manchester.ac.uk/portal/judy.williams.html)) see  [staffnet.manchester.ac.uk/umitl/about/institute-fellows](https://www.staffnet.manchester.ac.uk/umitl/about/institute-fellows/) each of these has a story to tell about T&L
     + Ralf Becker, see [man.ac.uk/7PWTIc](http://man.ac.uk/7PWTIc)
     + Jennie Blake, see [man.ac.uk/8WqU1T](http://man.ac.uk/8WqU1T)
-    + James Brooks
+    + James Brooks, see [www.elearning.fse.manchester.ac.uk/fseta/helping-students-to-study-effectively/](https://www.elearning.fse.manchester.ac.uk/fseta/helping-students-to-study-effectively/)
     + Steven Broom, see [man.ac.uk/RGykV6](http://man.ac.uk/RGykV6)
     + Maria Canal, see [man.ac.uk/DuR0iJ](http://man.ac.uk/DuR0iJ)
     + Li-Chia Chen
