@@ -85,6 +85,7 @@ So where all the teaching and learning stories?
     + teaching awards [www.staffnet.manchester.ac.uk/news/display/?id=28879](https://www.staffnet.manchester.ac.uk/news/display/?id=28879)
     + Ben Parslew, drone from home [blogs.manchester.ac.uk/itl/2022/10/28/tea-winner-2021-ben-parslew-and-drone-from-home-building-social-impact-into-courses/](https://blogs.manchester.ac.uk/itl/2022/10/28/tea-winner-2021-ben-parslew-and-drone-from-home-building-social-impact-into-courses/)
     + Ben Chapman [blogs.manchester.ac.uk/itl/2022/09/26/teacher-of-the-year-2021-fbmh-education-engagement-and-entertainment/](https://blogs.manchester.ac.uk/itl/2022/09/26/teacher-of-the-year-2021-fbmh-education-engagement-and-entertainment/)
+    + Percy van der Gryp, Teacher of the year FSE [blogs.manchester.ac.uk/itl/2022/09/01/teacher-of-the-year-2021-fse-what-makes-a-good-lecturer/](https://blogs.manchester.ac.uk/itl/2022/09/01/teacher-of-the-year-2021-fse-what-makes-a-good-lecturer/)
 
 * **Collaborative Award for Teaching Excellence** (CATE) recognises and celebrates [collaborative work that has had a demonstrable impact on teaching and learning](https://www.advance-he.ac.uk/awards/teaching-excellence-awards/collaborative-award-for-teaching-excellence)
     +  No CATE winners from Manchester yet as far as I can see
