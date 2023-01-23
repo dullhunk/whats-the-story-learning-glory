@@ -35,7 +35,7 @@ So where all the teaching and learning stories?
    + Raj Ariyaratnam, awarded NTFS in 2020 see [advance-he.ac.uk/ntfs/dr-senathirajah-ariyaratnam](https://www.advance-he.ac.uk/ntfs/dr-senathirajah-ariyaratnam) and [man.ac.uk/yghcG7](http://man.ac.uk/yghcG7)
    + Jackie Carter, awarded NTFS in 2020 see [man.ac.uk/sCT52A](http://man.ac.uk/sCT52A)
    + Bhuvaneswari Krishnamoorthy, awarded NTFS in 2020 see [advance-he.ac.uk/ntfs/dr-bhuvaneswari-krishnamoorthy](https://www.advance-he.ac.uk/ntfs/dr-bhuvaneswari-krishnamoorthy)
-   + Hannah Cobb and Adam Danquah, see [man.ac.uk/a5szM1](http://man.ac.uk/a5szM1)
+   + Hannah Cobb and Adam Danquah, see [man.ac.uk/a5szM1](http://man.ac.uk/a5szM1) and https://blogs.manchester.ac.uk/itl/2022/08/04/how-i-learned-to-stop-worrying-and-love-the-leap/
 
 * **Principal Fellowship of Higher Education Academy** (PFHEA) are awards for individuals who demonstrate a “[sustained record of effective strategic leadership in academic practice and academic development](https://www.advance-he.ac.uk/fellowship/principal-fellowship)”
     + Lynne Bianchi, see [man.ac.uk/d5hDGX](http://man.ac.uk/d5hDGX) and [man.ac.uk/IXo19M](http://man.ac.uk/IXo19M)
