@@ -12,11 +12,12 @@ I counted the occurrences of keywords in five annual press releases that get ema
 
 Here's the results for the University of Manchester from 2018 to 2022:
 
-| Words / Year                         |       2018  |      2019   |     2020    |      2021    |     2022    |
-| -------------------------- | ---------- |---------- |---------- |---------- |---------- |
-| TEACH* or LEARN*              | 1               |2                |3                |0                |1                |
-| RESEARCH*                          | 9               |13               |34             |19               |19              |
-| Article source                       | [2018](https://www.manchester.ac.uk/discover/news/2018-review-year/)               |[2019](https://www.manchester.ac.uk/discover/news/the-2019-review-of-the-year/)           | [20](https://www.manchester.ac.uk/discover/news/the-2020-review-of-the-year---part-one/)/[20](https://www.manchester.ac.uk/discover/news/the-2020-review-of-the-year---part-two/)       | [2021](https://www.manchester.ac.uk/discover/news/the-2021-review-of-the-year/)         | [2022](https://www.manchester.ac.uk/discover/news/the-2022-review-of-the-year/)        |
+| Words / Year                         |       2018  |      2019   |     2020    |      2021    |     2022    | 2023 | 2024 |
+| -------------------------- | ---------- |---------- |---------- |---------- |---------- |---------- |---------- |
+| TEACH* or LEARN*              | 1               |2                |3                |0                |1                |  x | y |
+| STUDENT*                          | a               |b               |c             |d               |e              |  f| g  |
+| RESEARCH*                          | 9               |13               |34             |19               |19              |  x| y  |
+| Article source                       | [2018](https://www.manchester.ac.uk/discover/news/2018-review-year/)               |[2019](https://www.manchester.ac.uk/discover/news/the-2019-review-of-the-year/)           | [20](https://www.manchester.ac.uk/discover/news/the-2020-review-of-the-year---part-one/)/[20](https://www.manchester.ac.uk/discover/news/the-2020-review-of-the-year---part-two/)       | [2021](https://www.manchester.ac.uk/discover/news/the-2021-review-of-the-year/)         | [2022](https://www.manchester.ac.uk/discover/news/the-2022-review-of-the-year/)        | [2023](https://github.com/dullhunk/cdyf/issues/984) |[2024](https://github.com/dullhunk/cdyf/issues/983) |
 
 <!--
 for Matthew Moth, appointed as Director of Communications May 2021
