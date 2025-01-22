@@ -1,6 +1,6 @@
-# What's Your Story, Learning Glory?
+# What's the Story, Learning Glory?
 
-Like many Universities, teaching, learning and research are key values at the University of Manchester. How are these values reflected in press releases from the University? We counted the occurrences of keywords in annual press releases that get emailed to the inbox of every member of staff at the end of each year. Here's the results for the University of Manchester from 2018 to 2024, counting the words `teach`, `learn`, `student` and `research`.
+Like many Universities, teaching, learning and research are key stories that reflect values at the University of Manchester. How are these values reflected in the stories told in press releases from the University? We counted the occurrences of keywords in annual press releases from 2018 to 2024. Here's the results for the keywords `teach`, `learn`, `student` and `research`.
 
 | Words / Year               |2018        |2019       | 2020      |2021       |2022       |2023       |2024       |
 | -------------------------- | ---------- |---------- |---------- |---------- |---------- |---------- |---------- |
