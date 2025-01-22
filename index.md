@@ -1,21 +1,15 @@
 # What's your story, learning glory?
 
-There are plenty of stories we can tell about how teaching and learning have changed in higher education in the last three years. Unfortunately, these stories are either untold or overlooked. If Universities want to be better understood, they need be telling lots more stories about the learning they enable for the students that they teach.
+Like many Universities, teaching and learning are key values at the University of Manchester. How are these values reflected in press releases from the University?
 
 ## What's your story?
 
-I counted the occurrences of keywords in five annual press releases that get emailed to the inbox of every member of staff at the end of each year. You can repeat this analysis on any University press release as follows:
-
-1. Count the words that begin with LEARN* or TEACH*
-1. Count the words with RESEARCH*
-1. Calculate the ratio of the two numbers you've just counted
-
-Here's the results for the University of Manchester from 2018 to 2022:
+We counted the occurrences of keywords in annual press releases that get emailed to the inbox of every member of staff at the end of each year. Here's the results for the University of Manchester from 2018 to 2024:
 
 | Words / Year               |2018        |2019       | 2020      |2021       |2022       |2023       |2024       |
 | -------------------------- | ---------- |---------- |---------- |---------- |---------- |---------- |---------- |
 | TEACH* or LEARN*          | 1           |2          |3          |0          |1          |  6        | 4         |
-| STUDENT*                  | a           |b          |c          |d          |e          | 10        | 9         |
+| STUDENT*                  | a           |b          |c          |d          |13         | 10        | 9         |
 | RESEARCH*                 | 9           |13         |34         |19         |19         | 11        | 21        |
 | Article source            | [2018](https://www.manchester.ac.uk/discover/news/2018-review-year/)               |[2019](https://www.manchester.ac.uk/discover/news/the-2019-review-of-the-year/)           | [20](https://www.manchester.ac.uk/discover/news/the-2020-review-of-the-year---part-one/)/[20](https://www.manchester.ac.uk/discover/news/the-2020-review-of-the-year---part-two/)       | [2021](https://www.manchester.ac.uk/discover/news/the-2021-review-of-the-year/)         | [2022](https://github.com/dullhunk/cdyf/issues/985)        | [2023](https://github.com/dullhunk/cdyf/issues/984) |[2024](https://github.com/dullhunk/cdyf/issues/983) |
 
