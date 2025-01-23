@@ -8,6 +8,19 @@ What are the most important stories that students and staff tell about their lea
 
 <!-- ## Teaching Glory? not really-->
 
+## The Stories of the Vision
+
+The story of [the vision](https://github.com/dullhunk/cdyf/issues/1008) is based on three goals are
+
+1. research and discovery
+2. teaching and learning
+3. social responsibility
+
+shown in 
+
+
+![Image](https://github.com/user-attachments/assets/bcec2956-9886-4b79-8a4d-a586bb393ed4)
+
 ## The Stories from Staff in Media Relations
 
 How do these stories reflect the values and purpose of the University, as told in press releases from its staff in the [media relations team](https://www.manchester.ac.uk/about/news/contact-media-relations/)? We counted the occurrences of keywords in ten years worth of annual press releases from 2015 to 2024. The table below shows an analysis of the frequency of keywords `STUDENT*`, `LEARN*`, `TEACH*` and `RESEARCH`. 
