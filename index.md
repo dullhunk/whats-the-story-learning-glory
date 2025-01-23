@@ -8,19 +8,6 @@ What are the most important stories that students and staff tell about their lea
 
 <!-- ## Teaching Glory? not really-->
 
-## The Stories of the Vision
-
-The story of [the vision](https://github.com/dullhunk/cdyf/issues/1008) is based on three goals are
-
-1. research and discovery
-2. teaching and learning
-3. social responsibility
-
-shown in 
-
-
-![Image](https://github.com/user-attachments/assets/bcec2956-9886-4b79-8a4d-a586bb393ed4)
-
 ## The Stories from Staff in Media Relations
 
 How do these stories reflect the values and purpose of the University, as told in press releases from its staff in the [media relations team](https://www.manchester.ac.uk/about/news/contact-media-relations/)? We counted the occurrences of keywords in ten years worth of annual press releases from 2015 to 2024. The table below shows an analysis of the frequency of keywords `STUDENT*`, `LEARN*`, `TEACH*` and `RESEARCH`. 
@@ -30,8 +17,21 @@ For example `LEARN*` = `learn`, `learning`, `learner` etc. The frequency of thes
 
 ![Image](https://github.com/user-attachments/assets/b19ec952-cefa-4904-b7b3-011fab9e1e05)
 
+## The Story in the Vision
+
+The story of [the vision](https://github.com/dullhunk/cdyf/issues/1008) is based on three goals are
+
+1. research and discovery
+2. teaching and learning
+3. social responsibility
 
 
+![Image](https://github.com/user-attachments/assets/bcec2956-9886-4b79-8a4d-a586bb393ed4)
+
+
+
+
+## Some Data Behind the Stories
 
 | [YEAR](https://github.com/dullhunk/cdyf/issues/995) / `WORDS` | `STUDENT*` | `LEARN*` | `TEACH*`  |  `RESEARCH*` |   
 |---------------------------------------------------------------|------------|----------|-----------|--------------|
@@ -45,25 +45,17 @@ For example `LEARN*` = `learn`, `learning`, `learner` etc. The frequency of thes
 | [2017](https://github.com/dullhunk/cdyf/issues/991)           | 15         | 0        | 0         | 11           |   
 | [2016](https://github.com/dullhunk/cdyf/issues/993)           | 9          | 0        | 1         | 12           |   
 | [2015](https://github.com/dullhunk/cdyf/issues/994)           | 1          | 0        | 1         | 10           |   
-| Average                                                       | **9.1**    | **1.3**  | **0.6**     | **15.9**     |   
+| Average                                                       | **9.1**    | **1.3**  | **0.6**   | **15.9**     |   
 
-<!--
 ## So What's the Story?
 
 So, what's the story?
 
 * With over 40,000 `students` studying at the University of Manchester, its not suprising to see the word `student` appear frequently
-* As a `research` intensive Russell Group University, its not surprising to see the word research appear so frequently
-* However, mentions of teaching and learning are much less frequent, about eight times less frequent than research (over a ten year period) and five times less frequent than student. This is disappointing for anyone involved in teaching and learning
-* Speculate as to why this might be: no teaching? no learning? there is but its overlooked? teachers don't tell their stories, learners don't tell theirs?
+* As a `research` intensive Russell Group University, its not surprising to see the word `research` appear so frequently either
+* However, mentions of `teach` and `learn` are much less frequent, between ten and twenty times less frequent than research, when averaged over a ten year period. This is disappointing for anyone involved in teaching and learning
+* Why is this? Not much teaching takes place? There isn't much learning going on? There are both but they are overlooked? Not considered newsworthy? Learners don't tell their stories? Teachers don't tell their stories? 
 
--->
-
-<!--The raw data 
-
-Move the table here
-
--->
 
 <!--
 ### Jekyll Themes
