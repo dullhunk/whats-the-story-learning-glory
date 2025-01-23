@@ -4,7 +4,7 @@ Students stories about what they have learned, the teaching they receive and res
 * [40,000 students, studying over 1,000 different degree programmes](https://www.employers.manchester.ac.uk/ourstudents/) 
 * [12,800 staff, including almost 7,000 academic and research staff](https://www.manchester.ac.uk/about/people/)
 
-What are the most important stories that the University tells, via its students and staff?
+What are the most important stories that students and staff tell about their learning, teaching and research?
 
 <!-- ## Teaching Glory? not really-->
 
