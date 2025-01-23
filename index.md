@@ -1,17 +1,27 @@
 # What's the Story, Learning Glory?
 
-Like many Universities, stories about students, learning, teaching and research describe the difference that the University of Manchester makes in local, national and international communities. How do these stories reflect the values and purpose of the University, as told in press releases? We counted the occurrences of keywords in annual press releases from 2015 to 2024. The table below shows an analysis of the frequency of keywords `student`, `learn`, `teach` and `research`.
+Like many Universities, stories about students, learning, teaching and research describe the difference that the University of Manchester makes in local, national and international communities. 
 
-| Words / Year            | [2015](https://github.com/dullhunk/cdyf/issues/994) | [2016](https://github.com/dullhunk/cdyf/issues/993) | [2017](https://github.com/dullhunk/cdyf/issues/991) |[2018](https://github.com/dullhunk/cdyf/issues/989)        |[2019](https://github.com/dullhunk/cdyf/issues/988)       | [2020](https://github.com/dullhunk/cdyf/issues/987)      |[2021](https://github.com/dullhunk/cdyf/issues/986)       |[2022](https://github.com/dullhunk/cdyf/issues/985)        |[2023](https://github.com/dullhunk/cdyf/issues/984)       |[2024](https://github.com/dullhunk/cdyf/issues/983)       | Average |
-| ----------------- | ------- |------- |------- |------- |------- |------- |------- |------- |------- |------- |------- |
-| STUDENT*          | 1       | 9      | 15     | 7      | 2      | 13     | 13     | 13     | 10     | 9      | 9.2    |
-| LEARN* or TEACH*  | 1       | 1      | 0      | 1      | 2      | 3      | 0      | 1      |  6     | 4      | 1.9    |
-| RESEARCH*         | 10      | 12     | 11     | 9      | 13     | 34     | 19     | 19     | 11     | 21     | 15.9.  |
 
-<!--
-for Matthew Moth, appointed as Director of Communications May 2021
-https://www.staffnet.manchester.ac.uk/news/display/?id=26307
--->
+## The Stories of the Press Releases
+
+How do these stories reflect the values and purpose of the University, as told in press releases? We counted the occurrences of keywords in nearly a decades worth of annual press releases from 2015 to 2024. The table below shows an analysis of the frequency of keywords `student`, `learn`, `teach` and `research`. e.g. `LEARN*` = `learn`, `learning`, `learner` etc
+
+
+
+|  `Words` / year                                          | `STUDENT*`  | `LEARN*` OR `TEACH*`  |  `RESEARCH*` |   
+|--------------------------------------------------------|----------|-----------------|-----------|
+| [2024](https://github.com/dullhunk/cdyf/issues/983)    | 9 | 4  | 21  | 
+| [2023](https://github.com/dullhunk/cdyf/issues/984)    | 10 | 6  | 11  |  
+| [2022](https://github.com/dullhunk/cdyf/issues/985)    | 13 | 1  | 9  |   
+| [2021](https://github.com/dullhunk/cdyf/issues/986)    | 13 | 0  | 9  |   
+| [2020](https://github.com/dullhunk/cdyf/issues/987)    | 13 | 3  | 34  |   
+| [2019](https://github.com/dullhunk/cdyf/issues/988)    | 2 | 2  | 13  |   
+| [2018](https://github.com/dullhunk/cdyf/issues/989)    | 7 | 1  | 9  |   
+| [2017](https://github.com/dullhunk/cdyf/issues/991)    | 15 | 0  | 11  |   
+| [2016](https://github.com/dullhunk/cdyf/issues/993)    | 9 | 1  |12  |   
+| [2015](https://github.com/dullhunk/cdyf/issues/994)    | 1 | 1  | 10  |   
+| Average  | **9.1** | **1.9**  | **15.9**  |   
 
 
 <!--
