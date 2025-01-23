@@ -21,9 +21,9 @@ For example `LEARN*` = `learn`, `learning`, `learner` etc. The frequency of thes
 
 The story of [the vision](https://github.com/dullhunk/cdyf/issues/1008) is based on three goals are
 
-1. research and discovery
-2. teaching and learning
-3. social responsibility
+1. research and discovery `The quality of our research will place us among the top 5 UK universities in the Research Excellence Framework`
+2. teaching and learning `We will achieve a top quartile sector position for student satisfaction`
+3. social responsibility `We will measure our success against a portfolio of measures and quality marks of social, cultural, economic and environmental impact`
 
 
 ![Image](https://github.com/user-attachments/assets/bcec2956-9886-4b79-8a4d-a586bb393ed4)
