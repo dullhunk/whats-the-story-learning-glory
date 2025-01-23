@@ -8,7 +8,7 @@ What are the most important stories that the University tells, via its students 
 
 <!-- ## Teaching Glory? not really-->
 
-## The Stories from Media Relations
+## The Stories from Staff in Media Relations
 
 How do these stories reflect the values and purpose of the University, as told in press releases from its staff in the [media relations team](https://www.manchester.ac.uk/about/news/contact-media-relations/)? We counted the occurrences of keywords in ten years worth of annual press releases from 2015 to 2024. The table below shows an analysis of the frequency of keywords `STUDENT*`, `LEARN*`, `TEACH*` and `RESEARCH`. 
 
