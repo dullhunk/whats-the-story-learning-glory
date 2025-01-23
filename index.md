@@ -4,9 +4,9 @@ Like many Universities, stories about students, learning, teaching and research 
 
 | Words / Year            | [2015](https://github.com/dullhunk/cdyf/issues/994) | [2016](https://github.com/dullhunk/cdyf/issues/993) | [2017](https://github.com/dullhunk/cdyf/issues/991) |[2018](https://github.com/dullhunk/cdyf/issues/989)        |[2019](https://github.com/dullhunk/cdyf/issues/988)       | [2020](https://github.com/dullhunk/cdyf/issues/987)      |[2021](https://github.com/dullhunk/cdyf/issues/986)       |[2022](https://github.com/dullhunk/cdyf/issues/985)        |[2023](https://github.com/dullhunk/cdyf/issues/984)       |[2024](https://github.com/dullhunk/cdyf/issues/983)       |
 | ----------------- | ------- |------- |------- |------- |------- |------- |------- |------- |------- |------- |
-| STUDENT*          | h       | 9      | j      | a      | b      | c      | d      | 13     | 10     | 9      |
-| LEARN* or TEACH*  | e       | 1      | g      | 1      | 2      | 3      | 0      | 1      |  6     | 4      |
-| RESEARCH*         | k       | 12      | m      | 9      | 13     | 34     | 19     | 19     | 11     | 21     |
+| STUDENT*          | 1       | 9      | 15      | a      | b      | c      | d      | 13     | 10     | 9      |
+| LEARN* or TEACH*  | 1       | 1      | 0      | 1      | 2      | 3      | 0      | 1      |  6     | 4      |
+| RESEARCH*         | 10      | 12     | 11      | 9      | 13     | 34     | 19     | 19     | 11     | 21     |
 
 <!--
 for Matthew Moth, appointed as Director of Communications May 2021
