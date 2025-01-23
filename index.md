@@ -2,8 +2,14 @@
 
 Like many Universities, stories about students, learning, teaching and research describe the difference that the University of Manchester makes in local, national and international communities. 
 
+<!--
+## Teaching Glory?
 
-## The Stories of the Press Releases
+not really
+
+-->
+
+## The Stories in the Press Releases
 
 How do these stories reflect the values and purpose of the University, as told in press releases? We counted the occurrences of keywords in nearly a decades worth of annual press releases from 2015 to 2024. The table below shows an analysis of the frequency of keywords `student`, `learn`, `teach` and `research`. e.g. `LEARN*` = `learn`, `learning`, `learner` etc
 
@@ -23,6 +29,22 @@ How do these stories reflect the values and purpose of the University, as told i
 | [2015](https://github.com/dullhunk/cdyf/issues/994)    | 1 | 1  | 10  |   
 | Average  | **9.1** | **1.9**  | **15.9**  |   
 
+<!--
+## So What's the Story?
+
+So, what's the story?
+
+* With over 40,000 `students` studying at the University of Manchester, its not suprising to see the word `student` appear frequently
+* As a `research` intensive Russell Group University, its not suprpising 
+* However, mentions of teaching and learning are much less frequent, about eight times less frequent than research (over a ten year period) and five times less frequent than student. This is disappointing for anyone involved in teaching and learning
+
+-->
+
+<!--The raw data 
+
+Move the table here
+
+-->
 
 <!--
 ### Jekyll Themes
