@@ -7,7 +7,7 @@ Like many Universities, teaching, learning and research are key stories that ref
 | TEACH* or LEARN*          | 1           |2          |3          |0          |1          |  6        | 4         |
 | STUDENT*                  | a           |b          |c          |d          |13         | 10        | 9         |
 | RESEARCH*                 | 9           |13         |34         |19         |19         | 11        | 21        |
-| Article source            | [2018](https://www.manchester.ac.uk/discover/news/2018-review-year/)               |[2019](https://www.manchester.ac.uk/discover/news/the-2019-review-of-the-year/)           | [20](https://www.manchester.ac.uk/discover/news/the-2020-review-of-the-year---part-one/)/[20](https://www.manchester.ac.uk/discover/news/the-2020-review-of-the-year---part-two/)       | [2021](https://www.manchester.ac.uk/discover/news/the-2021-review-of-the-year/)         | [2022](https://github.com/dullhunk/cdyf/issues/985)        | [2023](https://github.com/dullhunk/cdyf/issues/984) |[2024](https://github.com/dullhunk/cdyf/issues/983) |
+| Article source            | [2018](https://www.manchester.ac.uk/discover/news/2018-review-year/)               |[2019](https://www.manchester.ac.uk/discover/news/the-2019-review-of-the-year/)           | [2020](https://github.com/dullhunk/cdyf/issues/987)       | [2021](https://github.com/dullhunk/cdyf/issues/986)         | [2022](https://github.com/dullhunk/cdyf/issues/985)        | [2023](https://github.com/dullhunk/cdyf/issues/984) |[2024](https://github.com/dullhunk/cdyf/issues/983) |
 
 <!--
 for Matthew Moth, appointed as Director of Communications May 2021
