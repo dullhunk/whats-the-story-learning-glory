@@ -1,6 +1,6 @@
 # What's the Story, Learning Glory?
 
-Stories about students, learning, teaching and research describe the difference that the University of Manchester makes in local, national and international communities. 
+Stories about students and their learning, the teaching they receive and research they are exposed to are a key part of the story of any University. At the University of Manchester, these stories describe the difference the institution makes in local, national and international communities. 
 
 <!--
 ## Teaching Glory?
