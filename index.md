@@ -12,7 +12,11 @@ What are the most important stories that students and staff tell about their lea
 
 How do these stories reflect the values and purpose of the University, as told in press releases from its staff in the [media relations team](https://www.manchester.ac.uk/about/news/contact-media-relations/)? We counted the occurrences of keywords in ten years worth of annual press releases from 2015 to 2024. The table below shows an analysis of the frequency of keywords `STUDENT*`, `LEARN*`, `TEACH*` and `RESEARCH`. 
 
-For example `LEARN*` = `learn`, `learning`, `learner` etc
+For example `LEARN*` = `learn`, `learning`, `learner` etc. The frequency of these words is shown below
+
+
+![Image](https://github.com/user-attachments/assets/b19ec952-cefa-4904-b7b3-011fab9e1e05)
+
 
 
 
