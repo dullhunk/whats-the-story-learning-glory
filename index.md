@@ -26,7 +26,7 @@ For example `LEARN*` = `learn`, `learning`, `learner` etc
 | [2020](https://github.com/dullhunk/cdyf/issues/987)           | 13         | 3        | e         | 34           |   
 | [2019](https://github.com/dullhunk/cdyf/issues/988)           | 2          | 2        | f         | 13           |   
 | [2018](https://github.com/dullhunk/cdyf/issues/989)           | 7          | 1        | g         | 9            |   
-| [2017](https://github.com/dullhunk/cdyf/issues/991)           | 15         | 0        | j         | 11           |   
+| [2017](https://github.com/dullhunk/cdyf/issues/991)           | 15         | 0        | h         | 11           |   
 | [2016](https://github.com/dullhunk/cdyf/issues/993)           | 9          | 1        | i         | 12           |   
 | [2015](https://github.com/dullhunk/cdyf/issues/994)           | 1          | 1        | j         | 10           |   
 | Average                                                       | **9.1**    | **1.9**  | **k**     | **15.9**     |   
