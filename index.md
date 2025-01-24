@@ -10,38 +10,41 @@ What are the most important stories that students and staff tell about their lea
 
 ## The Stories from Staff in Media Relations
 
-Sfaff in the [media relations team](https://www.manchester.ac.uk/about/news/contact-media-relations/) are employed to tell stories about the University to students, staff and the wider world. These stories are summarised each year in an annual review published in December. We analysed these stories by counting the occurrences of keywords in ten years of reviews published from 2015 to 2024. The table below shows an analysis of the frequency of keywords `STUDENT*`, `LEARN*`, `TEACH*` and `RESEARCH`. 
+Staff in the [media relations team](https://www.manchester.ac.uk/about/news/contact-media-relations/) are employed to tell stories about the University to students, staff and the wider world. These stories are summarised each year in an annual review published in December. We analysed these stories by counting the occurrences of keywords in ten years of reviews published from 2015 to 2024. 
 
-For example `LEARN*` = `learn`, `learning`, `learner` etc. The frequency of these words is shown below
+Figure 1 below shows an analysis of the frequency of keywords `STUDENT*`, `LEARN*`, `TEACH*` and `RESEARCH`.  For example `LEARN*` = `learn`, `learning`, `learner` etc. The frequency of these words is shown below
 
 
 ![Image](https://github.com/user-attachments/assets/b19ec952-cefa-4904-b7b3-011fab9e1e05)
 
+_Figure 1: Frequency of keywords in annual reviews published by the media relations team, see Table 1 for details_
+
 ## The Story in the Vision
 
-The story of [the vision](https://github.com/dullhunk/cdyf/issues/1008) is based on three goals are
+The story of [the vision](https://github.com/dullhunk/cdyf/issues/1008) is based on three goals top level goals
 
-1. research and discovery `The quality of our research will place us among the top 5 UK universities in the Research Excellence Framework`
-2. teaching and learning `We will achieve a top quartile sector position for student satisfaction`
-3. social responsibility `We will measure our success against a portfolio of measures and quality marks of social, cultural, economic and environmental impact`
+1. RESEARCH AND DISCOVERY: `The quality of our research will place us among the top 5 UK universities in the Research Excellence Framework`
+2. TEACHING AND LEARNING: `We will achieve a top quartile sector position for student satisfaction`
+3. SOCIAL RESPONSIBILITY: `We will measure our success against a portfolio of measures and quality marks of social, cultural, economic and environmental impact`
 
+These core values are illustrated in Figure 2.
 
 ![Image](https://github.com/user-attachments/assets/bcec2956-9886-4b79-8a4d-a586bb393ed4)
 
+_Figure 2: Teaching and Learning are stated core values of the University of Manchester, alongside research and social responsibility_
 
+## So, What is the Story?
 
-## So What's the Story?
-
-So, what is the story? There are lots of `students` and lots of `research`, but what happened to `teaching` and `learning`?
+So, what is the story? 
 
 * With over 40,000 `students` studying at the University of Manchester, its not suprising to see the word `student` appear frequently, on average more than 9 times in an annual review
 * As a `research` intensive Russell Group University, its not surprising to see the word `research` appear so frequently either, on average nearly 16 times in an annual review
-* However, mentions of `teach` and `learn` are much less frequent, between ten and twenty times less frequent than `research`, when averaged over a ten year period. This is disappointing for anyone involved in teaching and learning
-* Why is this? Not much teaching takes place? There isn't much learning going on? There are both but they are overlooked? Not considered newsworthy? Learners don't tell their stories? Teachers don't tell their stories?
+* There are lots of `students` and lots of `research`, but what happened to `teaching` and `learning`? Mentions of `teach` and `learn` are much less frequent, between ten and twenty times less frequent than `research`, when averaged over a ten year period. This is disappointing for anyone involved in teaching and learning
+* Why is this? Not much teaching takes place? There isn't any learning going on? Teaching and learning is overlooked? Undervalued? Not considered newsworthy? Difficult to find and write about? Learners don't tell their stories? Teachers don't tell their stories? We'll leave these questions as an exercise for the reader to answer. What do you think?
 
 ## The Data Behind the Stories
 
-The table below summarises and links to the data in Figure 1.
+Table 1 below summarises and links to the data in Figure 1.
 
 | [YEAR](https://github.com/dullhunk/cdyf/issues/995) / `WORDS` | `STUDENT*` | `LEARN*` | `TEACH*`  |  `RESEARCH*` |   
 |---------------------------------------------------------------|------------|----------|-----------|--------------|
@@ -58,6 +61,7 @@ The table below summarises and links to the data in Figure 1.
 | Average                                                       | **9.1**    | **1.3**  | **0.6**   | **15.9**     |   
 
 
+_Table 1: Frequency of keywords in annual reviews by year, 2015 to 2024_
 
 <!--
 ### Jekyll Themes
