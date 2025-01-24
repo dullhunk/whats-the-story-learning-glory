@@ -13,9 +13,9 @@ What are the most important stories that students and staff tell about their lea
 
 Staff in the [media relations team](https://www.manchester.ac.uk/about/news/contact-media-relations/) are employed to tell stories about the University to students, staff and the wider world. These stories are summarised each year in an annual review published in December. We analysed these stories by counting the occurrences of keywords in [ten years of reviews published from 2015 to 2024](https://github.com/dullhunk/cdyf/issues/995). 
 
-Figure 1 below shows an analysis of the frequency of keywords `STUDENT*`, `LEARN*`, `TEACH*` and `RESEARCH`.  For example `LEARN*` = `learn`, `learning`, `learner` etc. The frequency of these words is shown below
+Figure 1 below shows an analysis of keywords `STUDENT*`, `LEARN*`, `TEACH*` and `RESEARCH`.  For example `LEARN*` = `learn`, `learning`, `learner` etc. The frequency of these words is measured in average occurences of the words per article.
 
----
+
 ![Image](https://github.com/user-attachments/assets/b19ec952-cefa-4904-b7b3-011fab9e1e05)
 
 **Figure 1**: Frequency of keywords in annual reviews published by the media relations team, see Table 1 below for details
@@ -32,7 +32,6 @@ The story of [the vision](https://github.com/dullhunk/cdyf/issues/1008) is based
 
 These core values are illustrated in Figure 2, lightly adapted from the original version published in [the vision](https://github.com/dullhunk/cdyf/issues/1008).
 
----
 ![Image](https://github.com/user-attachments/assets/bcec2956-9886-4b79-8a4d-a586bb393ed4)
 
 Figure 2: Teaching and Learning are stated core values of the University of Manchester, alongside research and social responsibility
@@ -65,7 +64,6 @@ Any queries, comments or suggestions about this article can be emailed to `dunca
 
 Table 1 below summarises and links to the data used in Figure 1.
 
----
 
 | [YEAR](https://github.com/dullhunk/cdyf/issues/995) / `WORDS` | `STUDENT*` | `LEARN*` | `TEACH*`  |  `RESEARCH*` |   
 |---------------------------------------------------------------|------------|----------|-----------|--------------|
