@@ -49,7 +49,7 @@ So, what is the story, learning glory? There are several possible stories to tel
     + Could it be that not much teaching takes place?
     + Perhaps there isn't any learning going on? 
     + Are teaching and learning overlooked? 
-    + Are they Undervalued? Misunderstood?
+    + Are they just undervalued or misunderstood?
     + Not considered newsworthy? Harder to quantify?
     + Difficult to find stories to write about? See examples at [blogs.manchester.ac.uk/itl](https://blogs.manchester.ac.uk/itl/)
     + It could be that learning isn't glamourous enough and therefore not what most readers are expected to be interested in?
@@ -59,7 +59,7 @@ So, what is the story, learning glory? There are several possible stories to tel
     + Why is this? What is going on? Are we missing something?
 * We'll leave these interesting questions as an exercise for the reader to answer. What do you think? 
 
-Any queries or comments on this article can be emailed to `duncan.hull` @ `manchester.ac.uk`. I welcome constructive criticism and suggestions for improvements.
+Any queries or comments on this article can be emailed to `duncan.hull` @ `manchester.ac.uk` constructive criticism and suggestions for improvements are welcomed.
 
 ## References
 
