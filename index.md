@@ -15,11 +15,13 @@ Staff in the [media relations team](https://www.manchester.ac.uk/about/news/cont
 
 Figure 1 below shows an analysis of the frequency of keywords `STUDENT*`, `LEARN*`, `TEACH*` and `RESEARCH`.  For example `LEARN*` = `learn`, `learning`, `learner` etc. The frequency of these words is shown below
 
-
+---
 ![Image](https://github.com/user-attachments/assets/b19ec952-cefa-4904-b7b3-011fab9e1e05)
 
-_Figure 1: Frequency of keywords in annual reviews published by the media relations team, see Table 1 below for details_
+**Figure 1**: Frequency of keywords in annual reviews published by the media relations team, see Table 1 below for details
 
+
+--- 
 ## The Story in the Vision
 
 The story of [the vision](https://github.com/dullhunk/cdyf/issues/1008) is based on three goals top level goals
@@ -30,9 +32,12 @@ The story of [the vision](https://github.com/dullhunk/cdyf/issues/1008) is based
 
 These core values are illustrated in Figure 2, lightly adapted from the original version published in [the vision](https://github.com/dullhunk/cdyf/issues/1008).
 
+---
 ![Image](https://github.com/user-attachments/assets/bcec2956-9886-4b79-8a4d-a586bb393ed4)
 
-_Figure 2: Teaching and Learning are stated core values of the University of Manchester, alongside research and social responsibility_
+Figure 2: Teaching and Learning are stated core values of the University of Manchester, alongside research and social responsibility
+
+---
 
 ## So, What is the Story?
 
@@ -60,6 +65,8 @@ Any queries, comments or suggestions about this article can be emailed to `dunca
 
 Table 1 below summarises and links to the data used in Figure 1.
 
+---
+
 | [YEAR](https://github.com/dullhunk/cdyf/issues/995) / `WORDS` | `STUDENT*` | `LEARN*` | `TEACH*`  |  `RESEARCH*` |   
 |---------------------------------------------------------------|------------|----------|-----------|--------------|
 | [2024](https://github.com/dullhunk/cdyf/issues/983)           | 9          | 3        | 1         | 21           | 
@@ -75,8 +82,9 @@ Table 1 below summarises and links to the data used in Figure 1.
 | Average                                                       | **9.1**    | **1.3**  | **0.6**   | **15.9**     |   
 
 
-_Table 1: Frequency of keywords in annual reviews by year, 2015 to 2024_
+Table 1: Frequency of keywords in annual reviews by year, 2015 to 2024
 
+---
 <!--
 ### Jekyll Themes
 
