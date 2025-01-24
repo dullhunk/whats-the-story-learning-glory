@@ -82,6 +82,8 @@ Table 1 below summarises and links to the data used in Figure 1.
 
 Table 1: Frequency of keywords in annual reviews by year, 2015 to 2024
 
+(Last updated 2025-01-24)
+
 ---
 <!--
 ### Jekyll Themes
