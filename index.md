@@ -1,4 +1,4 @@
-# What's the Story, Learning Glory?
+f# What's the Story, Learning Glory?
 
 Students stories about what they have learned, the teaching they receive and research they are exposed to are a key part of the story of any University. At the University of Manchester, these stories describe the difference the organisation makes locally, nationally and internationally through its communities of:
 
@@ -51,9 +51,9 @@ So, what is the story, learning glory?
     + Are teaching and learning are overlooked? 
     + Undervalued? Misunderstood?
     + Not considered newsworthy? 
-    + Difficult to find stories to write about? 
-    + Not what readers want to read about?
-    + Maybe learners are not telling their stories? 
+    + Difficult to find stories to write about? See examples at [blogs.manchester.ac.uk/itl](https://blogs.manchester.ac.uk/itl/)
+    + It could be that learning isn't glamourous enough and therefore not what readers want to read about?
+    + Maybe learners are just not telling their stories? Or they are too small and personal to merit media attention?
     + Could teachers be too busy to tell their [pedagogical stories](https://en.wikipedia.org/wiki/Pedagogy)? See Reference [1]
     + Words like [scholarship](https://www.staffnet.manchester.ac.uk/umitl/resources/scholarship-toolkit/) are equally rare and `pedagog*` appears exactly zero times in a decade. 
     + Why is this? What is going on? Are we missing something?
