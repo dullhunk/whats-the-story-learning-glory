@@ -54,7 +54,7 @@ So, what is the story?
     + Why is this? What is going on?
 * We'll leave these interesting questions as an exercise for the reader to answer. What do you think? 
 
-Any comments or suggestions about this article can be emailed to `duncan.hull` @ `manchester.ac.uk`
+Any queries, comments or suggestions about this article can be emailed to `duncan.hull` @ `manchester.ac.uk`
 
 ## The Data Behind the Stories
 
