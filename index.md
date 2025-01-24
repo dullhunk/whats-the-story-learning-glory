@@ -10,7 +10,7 @@ What are the most important stories that students and staff tell about their lea
 
 ## The Stories from Staff in Media Relations
 
-Staff in the [media relations team](https://www.manchester.ac.uk/about/news/contact-media-relations/) are employed to tell stories about the University to students, staff and the wider world. These stories are summarised each year in an annual review published in December. We analysed these stories by counting the occurrences of keywords in ten years of reviews published from 2015 to 2024. 
+Staff in the [media relations team](https://www.manchester.ac.uk/about/news/contact-media-relations/) are employed to tell stories about the University to students, staff and the wider world. These stories are summarised each year in an annual review published in December. We analysed these stories by counting the occurrences of keywords in [ten years of reviews published from 2015 to 2024](https://github.com/dullhunk/cdyf/issues/995). 
 
 Figure 1 below shows an analysis of the frequency of keywords `STUDENT*`, `LEARN*`, `TEACH*` and `RESEARCH`.  For example `LEARN*` = `learn`, `learning`, `learner` etc. The frequency of these words is shown below
 
@@ -40,7 +40,7 @@ So, what is the story?
 * With over 40,000 `students` studying at the University of Manchester, its not suprising to see the word `student` appear frequently, on average more than 9 times in an annual review
 * As a `research` intensive Russell Group University, its not surprising to see the word `research` appear so frequently either, on average nearly 16 times in an annual review
 * There are lots of `students` and lots of `research`, but what happened to `teaching` and `learning`? Mentions of `teach` and `learn` are much less frequent, between ten and twenty times less frequent than `research`, when averaged over a ten year period. This is disappointing for anyone involved in teaching and learning
-* Why is this? Not much teaching takes place? There isn't any learning going on? Teaching and learning is overlooked? Undervalued? Not considered newsworthy? Difficult to find and write about? Learners don't tell their stories? Teachers don't tell their stories? We'll leave these questions as an exercise for the reader to answer. What do you think?
+* Why is this? Not much teaching takes place? There isn't any learning going on? Teaching and learning is overlooked? Undervalued? Not considered newsworthy? Difficult to find and write about? Learners don't tell their stories? Teachers don't tell their stories? We'll leave these questions as an exercise for the reader to answer. What do you think? Comments or questions can be emailed to `duncan.hull` @ `manchester.ac.uk`
 
 ## The Data Behind the Stories
 
