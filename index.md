@@ -54,7 +54,7 @@ So, what is the story?
     + Difficult to find stories to write about? 
     + Maybe learners are not telling their stories? 
     + Could teachers be too busy to tell their [pedagogical stories](https://en.wikipedia.org/wiki/Pedagogy)? 
-    + Words like `scholar*` are equally rare and `pedagog*` appears exactly zero times in a decade. 
+    + Words like [scholarship](https://www.staffnet.manchester.ac.uk/umitl/resources/scholarship-toolkit/) are equally rare and `pedagog*` appears exactly zero times in a decade. 
     + Why is this? What is going on?
 * We'll leave these interesting questions as an exercise for the reader to answer. What do you think? 
 
