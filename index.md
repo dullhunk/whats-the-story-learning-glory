@@ -11,7 +11,7 @@ What are the most important stories that students and staff tell about their lea
 
 ## The Stories from Staff in Media Relations
 
-Staff in the [media relations team](https://www.manchester.ac.uk/about/news/contact-media-relations/) are employed to tell stories about the University to students, staff and the wider world. These stories are summarised each year in an annual review published in December. We analysed these stories by counting the occurrences of keywords in [ten years of reviews published from 2015 to 2024](https://github.com/dullhunk/cdyf/issues/995). 
+Staff in the [media relations team](https://www.manchester.ac.uk/about/news/contact-media-relations/) are employed to tell stories about the University. These stories are summarised each year in an informative annual review published in December and circulated to students, staff and the wider world. We analysed these stories by counting the occurrences of keywords in [ten years of reviews published from 2015 to 2024](https://github.com/dullhunk/cdyf/issues/995). 
 
 Figure 1 below shows an analysis of keywords `STUDENT*`, `LEARN*`, `TEACH*` and `RESEARCH`.  For example `LEARN*` = `learn`, `learning`, `learner` etc. The frequency of these words is measured in average occurences of the words per article.
 
@@ -49,12 +49,12 @@ So, what is the story?
     + Could it be that not much teaching takes place?
     + Perhaps there isn't any learning going on? 
     + Are teaching and learning are overlooked? 
-    + Undervalued? 
+    + Undervalued? Misunderstood?
     + Not considered newsworthy? 
     + Difficult to find stories to write about? 
     + Maybe learners are not telling their stories? 
     + Could teachers be too busy to tell their [pedagogical stories](https://en.wikipedia.org/wiki/Pedagogy)? 
-    + Words like `scholar*` are equally rare and `pedagog*` appears exactly zero times in a decade! 
+    + Words like `scholar*` are equally rare and `pedagog*` appears exactly zero times in a decade. 
     + Why is this? What is going on?
 * We'll leave these interesting questions as an exercise for the reader to answer. What do you think? 
 
