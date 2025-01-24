@@ -40,7 +40,7 @@ Figure 2: Teaching and Learning are stated core values of the University of Manc
 
 ## So, What IS the Story?
 
-So, what is the story, learning glory? There are several:
+So, what is the story, learning glory? There are several possible stories to tell:
 
 * With over 40,000 `students` studying at the University of Manchester, it is not suprising to see the word `student` appear frequently, on average more than 9 times in an annual review
 * As a `research` intensive Russell Group University, it is not surprising to see the word `research` appear so frequently either, on average nearly 16 times in each annual review. This aligns closely with the vision the University has of itself and its core values
@@ -48,11 +48,11 @@ So, what is the story, learning glory? There are several:
 * Why are core values not reflected better in annual reviews? How much of a mismatch exists between our words and our actions as a University? 
     + Could it be that not much teaching takes place?
     + Perhaps there isn't any learning going on? 
-    + Are teaching and learning are overlooked? 
-    + Undervalued? Misunderstood?
+    + Are teaching and learning overlooked? 
+    + Are they Undervalued? Misunderstood?
     + Not considered newsworthy? Harder to quantify?
     + Difficult to find stories to write about? See examples at [blogs.manchester.ac.uk/itl](https://blogs.manchester.ac.uk/itl/)
-    + It could be that learning isn't glamourous enough and therefore not what readers most readers are interested in?
+    + It could be that learning isn't glamourous enough and therefore not what most readers are expected to be interested in?
     + Maybe learners are just not _telling_ their stories? Or they are too trivial and personal to merit any media attention?
     + Could teachers be too busy to tell and document their [pedagogical stories](https://en.wikipedia.org/wiki/Pedagogy)? See Reference [1]
     + Words like [scholarship](https://www.staffnet.manchester.ac.uk/umitl/resources/scholarship-toolkit/) are equally rare and `pedagog*` appears exactly zero times in a decade. 
