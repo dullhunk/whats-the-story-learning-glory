@@ -10,7 +10,7 @@ What are the most important stories that students and staff tell about their lea
 
 ## The Stories from Staff in Media Relations
 
-How do these stories reflect the values and purpose of the University, as told in press releases from its staff in the [media relations team](https://www.manchester.ac.uk/about/news/contact-media-relations/)? We counted the occurrences of keywords in ten years worth of annual press releases from 2015 to 2024. The table below shows an analysis of the frequency of keywords `STUDENT*`, `LEARN*`, `TEACH*` and `RESEARCH`. 
+Sfaff in the [media relations team](https://www.manchester.ac.uk/about/news/contact-media-relations/) are employed to tell stories about the University to students, staff and the wider world. These stories are summarised each year in an annual review published in December. We analysed these stories by counting the occurrences of keywords in ten years of reviews published from 2015 to 2024. The table below shows an analysis of the frequency of keywords `STUDENT*`, `LEARN*`, `TEACH*` and `RESEARCH`. 
 
 For example `LEARN*` = `learn`, `learning`, `learner` etc. The frequency of these words is shown below
 
@@ -30,8 +30,18 @@ The story of [the vision](https://github.com/dullhunk/cdyf/issues/1008) is based
 
 
 
+## So What's the Story?
 
-## Some Data Behind the Stories
+So, what is the story? There are lots of `students` and lots of `research`, but what happened to `teaching` and `learning`?
+
+* With over 40,000 `students` studying at the University of Manchester, its not suprising to see the word `student` appear frequently, on average more than 9 times in an annual review
+* As a `research` intensive Russell Group University, its not surprising to see the word `research` appear so frequently either, on average nearly 16 times in an annual review
+* However, mentions of `teach` and `learn` are much less frequent, between ten and twenty times less frequent than `research`, when averaged over a ten year period. This is disappointing for anyone involved in teaching and learning
+* Why is this? Not much teaching takes place? There isn't much learning going on? There are both but they are overlooked? Not considered newsworthy? Learners don't tell their stories? Teachers don't tell their stories?
+
+## The Data Behind the Stories
+
+The table below summarises and links to the data in Figure 1.
 
 | [YEAR](https://github.com/dullhunk/cdyf/issues/995) / `WORDS` | `STUDENT*` | `LEARN*` | `TEACH*`  |  `RESEARCH*` |   
 |---------------------------------------------------------------|------------|----------|-----------|--------------|
@@ -47,14 +57,6 @@ The story of [the vision](https://github.com/dullhunk/cdyf/issues/1008) is based
 | [2015](https://github.com/dullhunk/cdyf/issues/994)           | 1          | 0        | 1         | 10           |   
 | Average                                                       | **9.1**    | **1.3**  | **0.6**   | **15.9**     |   
 
-## So What's the Story?
-
-So, what's the story?
-
-* With over 40,000 `students` studying at the University of Manchester, its not suprising to see the word `student` appear frequently
-* As a `research` intensive Russell Group University, its not surprising to see the word `research` appear so frequently either
-* However, mentions of `teach` and `learn` are much less frequent, between ten and twenty times less frequent than research, when averaged over a ten year period. This is disappointing for anyone involved in teaching and learning
-* Why is this? Not much teaching takes place? There isn't much learning going on? There are both but they are overlooked? Not considered newsworthy? Learners don't tell their stories? Teachers don't tell their stories? 
 
 
 <!--
