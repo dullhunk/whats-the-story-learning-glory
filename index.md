@@ -13,12 +13,12 @@ What are the most important stories that students and staff tell about their lea
 
 Staff in the [media relations team](https://www.manchester.ac.uk/about/news/contact-media-relations/) are employed to tell stories about the University. These stories are summarised each year in an informative annual review published in December and circulated to students, staff and the wider world. We analysed these stories by counting the occurrences of keywords in [ten years of reviews published from 2015 to 2024](https://github.com/dullhunk/cdyf/issues/995). 
 
-Figure 1 below shows an analysis of keywords `STUDENT*`, `LEARN*`, `TEACH*` and `RESEARCH`.  For example `LEARN*` = `learn`, `learning`, `learner` etc. The frequency of these words is measured in average occurences of the words per article.
+Figure 1 below shows an analysis of the frequency of keywords `STUDENT*`, `LEARN*`, `TEACH*` and `RESEARCH`.  For example `LEARN*` = `learn`, `learning`, `learner` etc. The frequency of these words is measured in average occurences of the words per article.
 
 
 ![Image](https://github.com/user-attachments/assets/b19ec952-cefa-4904-b7b3-011fab9e1e05)
 
-**Figure 1**: Frequency of keywords in annual reviews published by the media relations team, see Table 1 below for details
+**Figure 1**: Frequency of keywords in annual reviews published by the media relations team, see Table 1 in the references below for details
 
 
 --- 
@@ -40,29 +40,31 @@ Figure 2: Teaching and Learning are stated core values of the University of Manc
 
 ## So, What is the Story?
 
-So, what is the story? 
+So, what is the story, learning glory? 
 
 * With over 40,000 `students` studying at the University of Manchester, it is not suprising to see the word `student` appear frequently, on average more than 9 times in an annual review
-* As a `research` intensive Russell Group University, it is not surprising to see the word `research` appear so frequently either, on average nearly 16 times in an annual review, this aligns closely with the vision the University has of itself
+* As a `research` intensive Russell Group University, it is not surprising to see the word `research` appear so frequently either, on average nearly 16 times in each annual review. This aligns closely with the vision the University has of itself and its core values
 * There are lots of `students` and lots of `research`, but what happened to `teaching` and `learning`? Mentions of `teach` and `learn` are much less frequent, between ten and twenty times less frequent than `research`, when averaged over a ten year period. This is disappointing for anyone involved in teaching and learning. Is there a mismatch between the vision and the reality? 
-* Why are core values not reflected in annual reviews? How much of a mismatch exists between our words and our actions as a University? 
+* Why are core values not reflected better in annual reviews? How much of a mismatch exists between our words and our actions as a University? 
     + Could it be that not much teaching takes place?
     + Perhaps there isn't any learning going on? 
     + Are teaching and learning are overlooked? 
     + Undervalued? Misunderstood?
     + Not considered newsworthy? 
     + Difficult to find stories to write about? 
+    + Not what readers want to read about?
     + Maybe learners are not telling their stories? 
-    + Could teachers be too busy to tell their [pedagogical stories](https://en.wikipedia.org/wiki/Pedagogy)? 
+    + Could teachers be too busy to tell their [pedagogical stories](https://en.wikipedia.org/wiki/Pedagogy)? See Reference [1]
     + Words like [scholarship](https://www.staffnet.manchester.ac.uk/umitl/resources/scholarship-toolkit/) are equally rare and `pedagog*` appears exactly zero times in a decade. 
-    + Why is this? What is going on?
+    + Why is this? What is going on? Are we missing something?
 * We'll leave these interesting questions as an exercise for the reader to answer. What do you think? 
 
 Any queries, comments or suggestions about this article can be emailed to `duncan.hull` @ `manchester.ac.uk`
 
-## References: The Data Behind the Stories
+## References
 
-Table 1 below summarises and links to the data used in Figure 1.
+1. Hull, Duncan (2025) _Where Have All the Papers Gone? Priming the pump of pedagogical publishing in Europe_ in Proceedings of the 9th Conference on Computing Education Practice (CEP '25), Page 35, Association for Computing Machinery (ACM), New York, DOI:[10.1145/3702212.3702224](https://doi.org/10.1145/3702212.3702224) 
+2. Table 1 below summarises and links to the original data used in Figure 1.
 
 
 | [YEAR](https://github.com/dullhunk/cdyf/issues/995) / `WORDS` | `STUDENT*` | `LEARN*` | `TEACH*`  |  `RESEARCH*` |   
@@ -80,9 +82,8 @@ Table 1 below summarises and links to the data used in Figure 1.
 | Average                                                       | **9.1**    | **1.3**  | **0.6**   | **15.9**     |   
 
 
-Table 1: Frequency of keywords in annual reviews by year, 2015 to 2024
+Table 1: Frequency of keywords in [annual reviews](https://github.com/dullhunk/cdyf/issues/995) published by the University of Manchester from 2015 to 2024
 
-(Last updated 2025-01-24)
 
 ---
 <!--
