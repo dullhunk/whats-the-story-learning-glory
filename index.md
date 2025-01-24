@@ -24,9 +24,9 @@ _Figure 1: Frequency of keywords in annual reviews published by the media relati
 
 The story of [the vision](https://github.com/dullhunk/cdyf/issues/1008) is based on three goals top level goals
 
-1. RESEARCH AND DISCOVERY: `The quality of our research will place us among the top 5 UK universities in the Research Excellence Framework`
-2. TEACHING AND LEARNING: `We will achieve a top quartile sector position for student satisfaction`
-3. SOCIAL RESPONSIBILITY: `We will measure our success against a portfolio of measures and quality marks of social, cultural, economic and environmental impact`
+1. RESEARCH AND DISCOVERY: quote `The quality of our research will place us among the top 5 UK universities in the Research Excellence Framework`
+2. TEACHING AND LEARNING: quote `We will achieve a top quartile sector position for student satisfaction`
+3. SOCIAL RESPONSIBILITY: quote `We will measure our success against a portfolio of measures and quality marks of social, cultural, economic and environmental impact`
 
 These core values are illustrated in Figure 2.
 
@@ -38,15 +38,15 @@ _Figure 2: Teaching and Learning are stated core values of the University of Man
 
 So, what is the story? 
 
-* With over 40,000 `students` studying at the University of Manchester, its not suprising to see the word `student` appear frequently, on average more than 9 times in an annual review
-* As a `research` intensive Russell Group University, its not surprising to see the word `research` appear so frequently either, on average nearly 16 times in an annual review
+* With over 40,000 `students` studying at the University of Manchester, it is not suprising to see the word `student` appear frequently, on average more than 9 times in an annual review
+* As a `research` intensive Russell Group University, it is not surprising to see the word `research` appear so frequently either, on average nearly 16 times in an annual review
 * There are lots of `students` and lots of `research`, but what happened to `teaching` and `learning`? Mentions of `teach` and `learn` are much less frequent, between ten and twenty times less frequent than `research`, when averaged over a ten year period. This is disappointing for anyone involved in teaching and learning. Is there a mismatch between the vision and the reality? 
 * Why are core values not reflected in annual reviews? How much of a mismatch exists between our words and our actions as a University? Could it be that not much teaching takes place? Perhaps there isn't any learning going on? Teaching and learning are overlooked? Undervalued? Not considered newsworthy? Difficult to find and write about? Learners don't tell their stories? Teachers don't tell their stories either? Words like `scholar*` are equally rare and [pegagog*](https://en.wikipedia.org/wiki/Pedagogy) appears exactly zero times in a decade! Why is this? What is going on?
-* We'll leave these questions as an exercise for the reader to answer. What do you think? Any comments or questions can be emailed to `duncan.hull` @ `manchester.ac.uk`
+* We'll leave these interesting questions as an exercise for the reader to answer. What do you think? Any comments or questions can be emailed to `duncan.hull` @ `manchester.ac.uk`
 
 ## The Data Behind the Stories
 
-Table 1 below summarises and links to the data in Figure 1.
+Table 1 below summarises and links to the data used in Figure 1.
 
 | [YEAR](https://github.com/dullhunk/cdyf/issues/995) / `WORDS` | `STUDENT*` | `LEARN*` | `TEACH*`  |  `RESEARCH*` |   
 |---------------------------------------------------------------|------------|----------|-----------|--------------|
