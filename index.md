@@ -28,7 +28,7 @@ The story of [the vision](https://github.com/dullhunk/cdyf/issues/1008) is based
 2. TEACHING AND LEARNING: quote `We will achieve a top quartile sector position for student satisfaction`
 3. SOCIAL RESPONSIBILITY: quote `We will measure our success against a portfolio of measures and quality marks of social, cultural, economic and environmental impact`
 
-These core values are illustrated in Figure 2.
+These core values are illustrated in Figure 2, adapted from the original version published in the vision.
 
 ![Image](https://github.com/user-attachments/assets/bcec2956-9886-4b79-8a4d-a586bb393ed4)
 
