@@ -1,4 +1,4 @@
-f# What's the Story, Learning Glory?
+# What's the Story, Learning Glory?
 
 Students stories about what they have learned, the teaching they receive and research they are exposed to are a key part of the story of any University. At the University of Manchester, these stories describe the difference the organisation makes locally, nationally and internationally through its communities of:
 
@@ -13,7 +13,7 @@ What are the most important stories that students and staff tell about their lea
 
 Staff in the [media relations team](https://www.manchester.ac.uk/about/news/contact-media-relations/) are employed to tell stories about the University. These stories are summarised each year in an informative annual review published in December and circulated to students, staff and the wider world. We analysed these stories by counting the occurrences of keywords in [ten years of reviews published from 2015 to 2024](https://github.com/dullhunk/cdyf/issues/995). 
 
-Figure 1 below shows an analysis of the frequency of keywords `STUDENT*`, `LEARN*`, `TEACH*` and `RESEARCH`.  For example `LEARN*` = `learn`, `learning`, `learner` etc. The frequency of these words is measured in average occurences of the words per article.
+Figure 1 below shows an analysis of the frequency of keywords `STUDENT*`, `LEARN*`, `TEACH*` and `RESEARCH`.  For example `LEARN*` = `learn`, `learning`, `learner` etc. The frequency of these words is measured in average occurences of the words per article over a ten year period.
 
 
 ![Image](https://github.com/user-attachments/assets/b19ec952-cefa-4904-b7b3-011fab9e1e05)
@@ -38,9 +38,9 @@ Figure 2: Teaching and Learning are stated core values of the University of Manc
 
 ---
 
-## So, What is the Story?
+## So, What IS the Story?
 
-So, what is the story, learning glory? 
+So, what is the story, learning glory? There are several:
 
 * With over 40,000 `students` studying at the University of Manchester, it is not suprising to see the word `student` appear frequently, on average more than 9 times in an annual review
 * As a `research` intensive Russell Group University, it is not surprising to see the word `research` appear so frequently either, on average nearly 16 times in each annual review. This aligns closely with the vision the University has of itself and its core values
@@ -50,11 +50,11 @@ So, what is the story, learning glory?
     + Perhaps there isn't any learning going on? 
     + Are teaching and learning are overlooked? 
     + Undervalued? Misunderstood?
-    + Not considered newsworthy? 
+    + Not considered newsworthy? Harder to quantify?
     + Difficult to find stories to write about? See examples at [blogs.manchester.ac.uk/itl](https://blogs.manchester.ac.uk/itl/)
-    + It could be that learning isn't glamourous enough and therefore not what readers want to read about?
-    + Maybe learners are just not telling their stories? Or they are too small and personal to merit media attention?
-    + Could teachers be too busy to tell their [pedagogical stories](https://en.wikipedia.org/wiki/Pedagogy)? See Reference [1]
+    + It could be that learning isn't glamourous enough and therefore not what readers most readers are interested in?
+    + Maybe learners are just not _telling_ their stories? Or they are too trivial and personal to merit any media attention?
+    + Could teachers be too busy to tell and document their [pedagogical stories](https://en.wikipedia.org/wiki/Pedagogy)? See Reference [1]
     + Words like [scholarship](https://www.staffnet.manchester.ac.uk/umitl/resources/scholarship-toolkit/) are equally rare and `pedagog*` appears exactly zero times in a decade. 
     + Why is this? What is going on? Are we missing something?
 * We'll leave these interesting questions as an exercise for the reader to answer. What do you think? 
