@@ -44,7 +44,7 @@ So, what is the story?
 * Why are core values not reflected in annual reviews? How much of a mismatch exists between our words and our actions as a University? Could it be that not much teaching takes place? Perhaps there isn't any learning going on? Teaching and learning are overlooked? Undervalued? Not considered newsworthy? Difficult to find and write about? Learners don't tell their stories? Teachers don't tell their stories either? Words like `scholar*` are equally rare and [pedagog*](https://en.wikipedia.org/wiki/Pedagogy) appears exactly zero times in a decade! Why is this? What is going on?
 * We'll leave these interesting questions as an exercise for the reader to answer. What do you think? 
 
-Any comments or questions can be emailed to `duncan.hull` @ `manchester.ac.uk`
+Any comments or suggestions about this article can be emailed to `duncan.hull` @ `manchester.ac.uk`
 
 ## The Data Behind the Stories
 
