@@ -24,11 +24,11 @@ _Figure 1: Frequency of keywords in annual reviews published by the media relati
 
 The story of [the vision](https://github.com/dullhunk/cdyf/issues/1008) is based on three goals top level goals
 
-1. **RESEARCH AND DISCOVERY**: quote `The quality of our research will place us among the top 5 UK universities in the Research Excellence Framework`
-2. **TEACHING AND LEARNING**: quote `We will achieve a top quartile sector position for student satisfaction`
-3. **SOCIAL RESPONSIBILITY**: quote `We will measure our success against a portfolio of measures and quality marks of social, cultural, economic and environmental impact`
+1. **RESEARCH AND DISCOVERY**:  “`The quality of our research will place us among the top 5 UK universities in the Research Excellence Framework`”
+2. **TEACHING AND LEARNING**:  “`We will achieve a top quartile sector position for student satisfaction`”
+3. **SOCIAL RESPONSIBILITY**: “`We will measure our success against a portfolio of measures and quality marks of social, cultural, economic and environmental impact`”
 
-These core values are illustrated in Figure 2, adapted from the original version published in the vision.
+These core values are illustrated in Figure 2, lightly adapted from the original version published in [the vision](https://github.com/dullhunk/cdyf/issues/1008).
 
 ![Image](https://github.com/user-attachments/assets/bcec2956-9886-4b79-8a4d-a586bb393ed4)
 
