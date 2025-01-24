@@ -17,7 +17,7 @@ Figure 1 below shows an analysis of the frequency of keywords `STUDENT*`, `LEARN
 
 ![Image](https://github.com/user-attachments/assets/b19ec952-cefa-4904-b7b3-011fab9e1e05)
 
-_Figure 1: Frequency of keywords in annual reviews published by the media relations team, see Table 1 for details_
+_Figure 1: Frequency of keywords in annual reviews published by the media relations team, see Table 1 below for details_
 
 ## The Story in the Vision
 
