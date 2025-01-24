@@ -60,7 +60,7 @@ So, what is the story?
 
 Any queries, comments or suggestions about this article can be emailed to `duncan.hull` @ `manchester.ac.uk`
 
-## The Data Behind the Stories
+## References: The Data Behind the Stories
 
 Table 1 below summarises and links to the data used in Figure 1.
 
