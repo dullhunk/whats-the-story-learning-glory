@@ -63,7 +63,7 @@ Any queries or comments on this article can be emailed to `duncan.hull` @ `manch
 
 ## References
 
-1. Hull, Duncan (2025) _Where Have All the Papers Gone? Priming the pump of pedagogical publishing in Europe_ in Proceedings of the 9th Conference on Computing Education Practice (CEP '25), Page 35, Association for Computing Machinery (ACM), New York, DOI:[10.1145/3702212.3702224](https://doi.org/10.1145/3702212.3702224) 
+1. Hull, Duncan (2025) _Where Have All the Papers Gone? Priming the pump of pedagogical publishing in Europe_ in Proceedings of the 9th Conference on Computing Education Practice (CEP '25), Page 35, Edited by Maria Kallia and Ryan Crosby. Published by the Association for Computing Machinery (ACM), New York, NY, USA. DOI:[10.1145/3702212.3702224](https://doi.org/10.1145/3702212.3702224) 
 2. Table 1 below summarises and links to the original data used in Figure 1.
 
 
