@@ -24,7 +24,7 @@ Figure 1 below shows an analysis of the frequency of keywords `STUDENT*`, `LEARN
 --- 
 ## The Story in the Vision
 
-The story of [the vision](https://github.com/dullhunk/cdyf/issues/1008) is based on three goals top level goals
+Alongside the media relations story, there's more stories to  be found in the vision that [the vision](https://github.com/dullhunk/cdyf/issues/1008) that the University has for itself. These stories are based on three goals top level goals:
 
 1. **RESEARCH AND DISCOVERY**:  “`The quality of our research will place us among the top 5 UK universities in the Research Excellence Framework`”
 2. **TEACHING AND LEARNING**:  “`We will achieve a top quartile sector position for student satisfaction`”
