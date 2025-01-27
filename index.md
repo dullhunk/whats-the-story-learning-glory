@@ -52,9 +52,9 @@ So, what is the story, learning glory? There are several possible stories to tel
     + Are they just undervalued or misunderstood?
     + Not considered newsworthy? Harder to quantify?
     + Difficult to find stories to write about? See examples at [blogs.manchester.ac.uk/itl](https://blogs.manchester.ac.uk/itl/)
-    + It could be that learning isn't glamourous enough and therefore not what most readers are expected to be interested in?
-    + Maybe learners are just not _telling_ their stories? Or they are too trivial and personal to merit any media attention?
-    + Could teachers be too busy to tell and document their [pedagogical stories](https://en.wikipedia.org/wiki/Pedagogy)? See Reference [1]
+    + It could be that learning isn't glamorous enough, too mundane and therefore not what most readers are expected to be interested in?
+    + Maybe learners are just not _telling_ their stories? Or they are too personal or trivial to merit any media attention?
+    + Could teachers be too busy to have the time to tell and document their [pedagogical stories](https://en.wikipedia.org/wiki/Pedagogy)? See Reference [1]
     + Words like [scholarship](https://www.staffnet.manchester.ac.uk/umitl/resources/scholarship-toolkit/) are equally rare and `pedagog*` appears exactly zero times in a decade. 
     + Why is this? What is going on? Are we missing something?
 * We'll leave these interesting questions as an exercise for the reader to answer. What do you think? 
@@ -81,6 +81,7 @@ Any queries or comments on this article can be emailed to `duncan.hull` @ `manch
 | [2015](https://github.com/dullhunk/cdyf/issues/994)           | 1          | 0        | 1         | 10           |   
 | Average                                                       | **9.1**    | **1.3**  | **0.6**   | **15.9**     |   
 
+<!--scholar is 0,1,3,0,0,0,0,1,2,1 (total 9, average 0.9-->
 
 Table 1: Frequency of keywords in [annual reviews](https://github.com/dullhunk/cdyf/issues/995) published by the University of Manchester from 2015 to 2024
 
