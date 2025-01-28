@@ -54,7 +54,7 @@ So, what is the story, learning glory? There are several possible stories to tel
     + Are teaching and learning overlooked? 
     + Are they just undervalued or misunderstood?
     + Is learning not considered newsworthy? Harder to quantify?
-    + Maybe its difficult to find good stories to write about, despite plenty of examples at [blogs.manchester.ac.uk/itl](https://blogs.manchester.ac.uk/itl/)
+    + Maybe its difficult to find good stories to write about, despite plenty of examples at [blogs.manchester.ac.uk/itl](https://blogs.manchester.ac.uk/itl/) and [www.staffnet.manchester.ac.uk/umitl/events/itl-conference](https://www.staffnet.manchester.ac.uk/umitl/events/itl-conference/)
     + It could be that learning isn't glamorous enough, too mundane and therefore not what most readers are expected to be interested in?
     + Maybe learners are just not _telling_ their stories? Or their stories are too personal or trivial to merit any media attention?
     + Could teachers be too busy to have the time to tell and document their [pedagogical stories](https://en.wikipedia.org/wiki/Pedagogy)? See Reference [1]
