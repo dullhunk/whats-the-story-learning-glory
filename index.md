@@ -61,7 +61,7 @@ So, what is the story, learning glory? There are several possible stories to tel
     + Why is this? What is going on? Are we missing something?
 * We'll leave these interesting questions as an exercise for the reader to answer. What do you think? 
 
-Any queries or comments on this article can be emailed to `duncan.hull` @ `manchester.ac.uk` constructive criticism and suggestions for improvements are welcomed.
+Any queries or comments on this data and article are welcome and any constructive criticism or suggestions for improvements can be emailed to `duncan.hull` @ `manchester.ac.uk`
 
 ## References
 
