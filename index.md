@@ -16,7 +16,9 @@ Staff in the [media relations team](https://www.manchester.ac.uk/about/news/cont
 Figure 1 below shows an analysis of the frequency of keywords `STUDENT*`, `LEARN*`, `TEACH*`, `SCHOLAR*` and `RESEARCH`.  For example `LEARN*` = `learn`, `learning`, `learner` etc. The frequency of these words is measured in average occurences of the words per article over a ten year period.
 
 
-![Image](https://github.com/user-attachments/assets/b19ec952-cefa-4904-b7b3-011fab9e1e05)
+<!--![Image](https://github.com/user-attachments/assets/b19ec952-cefa-4904-b7b3-011fab9e1e05)
+-->
+![Image](https://github.com/user-attachments/assets/215ff606-7724-4f1d-b0af-31d1dcebb7e0)
 
 **Figure 1**: Frequency of keywords in annual reviews published by the media relations team, see Table 1 in the references below for details
 
