@@ -1,6 +1,6 @@
 # What's the Story, Learning Glory?
 
-Students stories about what they have learned, the teaching they receive and research they are exposed to are a key part of the story of any University. At the University of Manchester, these stories describe the difference the organisation makes locally, nationally and internationally through its communities of:
+The stories students tell about what they have learned, the teaching they receive and research they are exposed to are a key part of the story of any University. At the University of Manchester, these stories describe the difference the organisation makes locally, nationally and internationally through its communities of:
 
 * [40,000 students, studying over 1,000 different degree programmes](https://www.employers.manchester.ac.uk/ourstudents/) 
 * [12,800 staff, including almost 7,000 academic and research staff](https://www.manchester.ac.uk/about/people/)
