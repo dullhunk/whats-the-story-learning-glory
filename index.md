@@ -66,7 +66,7 @@ Any queries or comments on this data and article are welcome and any constructiv
 
 ## References
 
-1. Cobb, Hannah and Blake, Jennifer (2024) _The Institute of Teaching and Learning - Teaching and Learning Conference 2024 - Abstract Booklet_ DOI:[10.25416/NTR.25997314.v3](https://doi.org/10.25416/NTR.25997314.v3)
+1. Cobb, Hannah (2024) _The Institute of Teaching and Learning - Teaching and Learning Conference 2024 - Abstract Booklet_ DOI:[10.25416/NTR.25997314.v3](https://doi.org/10.25416/NTR.25997314.v3)
 2. Hull, Duncan (2025) _Where Have All the Papers Gone? Priming the pump of pedagogical publishing in Europe_ in Proceedings of the 9th Conference on Computing Education Practice (CEP '25), Page 35, Edited by Maria Kallia and Ryan Crosby. Published by the Association for Computing Machinery (ACM), New York, NY, USA. DOI:[10.1145/3702212.3702224](https://doi.org/10.1145/3702212.3702224) 
 3. Table 1 below summarises and links to the original data used in Figure 1.
 
