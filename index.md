@@ -42,9 +42,9 @@ Figure 2: Teaching and Learning are stated core values of the University of Manc
 
 ## So, What IS the Story?
 
-So, what is the story, learning glory? There are several possible stories to tell, from different perpectives:
+So, what is the story, learning glory? There are many stories we can tell, from different perpectives:
 
-* **THE STORY OF THE STUDENTS** With over 40,000 `students` studying at the University of Manchester, it is not suprising to see the word `student` appear frequently, on average more than 9 times in an annual review
+* **THE STORY OF THE STUDENTS** With over 40,000 `students` studying at the University of Manchester, it is not suprising to see the word `student` appear frequently, on average more than 9 times in an annual review. Its good to see the [strength of the student voice in Manchester](https://www.yoursay.manchester.ac.uk/) reflected in press releases.
 * **THE STORY OF THE RESEARCHERS** As a `research` intensive Russell Group University, it is not surprising to see the word `research` appear so frequently either, on average nearly 16 times in each annual review. This aligns closely with the vision the University has of itself and its core values
 * **THE STORY OF THE LEARNERS** There are lots of `students` and lots of `research`, but what are they actually `learning`? Mentions of `learn` are much less frequent, between ten and twenty times less frequent than `research`, when averaged over a ten year period. Sometimes, this word completely absent. Students might be disappointed to learn that none of the skills and knowledge they've developed at University are considered newsworthy.
 * **THE STORY OF THE TEACHERS** There is lots of `research`, but how does that relate to `teaching`? Mentions of `teach` are much less frequent, between ten and twenty times less frequent than `research`, when averaged over a ten year period. Sometimes, teaching is completely absent. This is disappointing for anyone involved in teaching and learning. Why is there such a mismatch between the vision and the reality?
