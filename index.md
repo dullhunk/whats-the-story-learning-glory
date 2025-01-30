@@ -26,7 +26,7 @@ Figure 1 below shows an analysis of the frequency of keywords `STUDENT*`, `LEARN
 --- 
 ## The Story in the Vision
 
-Alongside the media relations story, there's more stories to  be found in [the organisational vision](https://github.com/dullhunk/cdyf/issues/1008) that the University has. These stories are centred on three ambitious top level goals:
+Alongside the media relations story, there's more stories to  be found in [the organisational vision](https://github.com/dullhunk/cdyf/issues/1008) of the University. These stories are centred on three ambitious top level goals:
 
 1. **RESEARCH AND DISCOVERY**:  “`The quality of our research will place us among the top 5 UK universities in the Research Excellence Framework`”
 2. **TEACHING AND LEARNING**:  “`We will achieve a top quartile sector position for student satisfaction`”
@@ -42,7 +42,7 @@ Figure 2: Teaching and Learning are stated core values of the University of Manc
 
 ## So, What IS the Story?
 
-So, what is the story, learning glory? There are many stories we can tell, from different perpectives:
+All your dreams are made, when you're chained to the learning and the teaching trade. What's the story, learning glory? There are many stories we can tell, from different perpectives:
 
 * **THE STORY OF THE STUDENTS** With over 40,000 `students` studying at the University of Manchester, it is not suprising to see the word `student` appear frequently, on average more than 9 times in an annual review. Its good to see the [strength of the student voice in Manchester](https://www.yoursay.manchester.ac.uk/) reflected in press releases.
 * **THE STORY OF THE RESEARCHERS** As a `research` intensive Russell Group University, it is not surprising to see the word `research` appear so frequently either, on average nearly 16 times in each annual review. This aligns closely with the vision the University has of itself and its core values
