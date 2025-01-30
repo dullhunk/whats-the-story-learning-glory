@@ -13,7 +13,7 @@ What are the most important stories that students and staff tell about their lea
 
 Staff in the [media relations team](https://www.manchester.ac.uk/about/news/contact-media-relations/) are employed to tell stories about the University. These stories are summarised each year in an informative annual review published in December and circulated to students, staff and the wider world. We analysed these stories by counting the occurrences of keywords in [ten years of reviews published from 2015 to 2024](https://github.com/dullhunk/cdyf/issues/995). 
 
-Figure 1 below shows an analysis of the frequency of keywords `STUDENT*`, `LEARN*`, `TEACH*`, `SCHOLAR*` and `RESEARCH`.  For example `LEARN*` = `learn`, `learning`, `learner` etc. The frequency of these words is measured in average occurences of the words per article over a ten year period.
+Figure 1 below shows an analysis of the frequency of keywords `STUDENT*`, `LEARN*`, `TEACH*`, `SCHOLAR*` and `RESEARCH`.  For example `LEARN*` = `learn`, `learning`, `learner` etc. The frequency of these words is measured in average occurences of the words per annual review article over a ten year period.
 
 
 <!--![Image](https://github.com/user-attachments/assets/b19ec952-cefa-4904-b7b3-011fab9e1e05)
