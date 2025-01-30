@@ -52,9 +52,9 @@ So, what is the story, learning glory? There are several possible stories to tel
 * **THE STORY OF THE VALUES** Why are core values not reflected better in annual reviews? Why is there a mismatch between the words in our values and the words in our press releases? 
     + Could it be that not much teaching takes place?
     + Perhaps there isn't any learning going on? 
-    + Are teaching and learning overlooked? 
-    + Are they just undervalued or misunderstood?
-    + Is learning not considered newsworthy? Harder to quantify?
+    + How much are teaching and learning (T&L) overlooked? 
+    + Mow much are T&L undervalued or misunderstood?
+    + How newsworthy is learning?
     + Maybe its difficult to find good stories to write about, despite plenty of examples at [blogs.manchester.ac.uk/itl](https://blogs.manchester.ac.uk/itl/) and [www.staffnet.manchester.ac.uk/umitl/events/itl-conference](https://www.staffnet.manchester.ac.uk/umitl/events/itl-conference/)
     + It could be that learning isn't glamorous enough, too mundane and therefore not what most readers are expected to be interested in?
     + Maybe learners are just not _telling_ their stories? Or their stories are too personal or trivial to merit any media attention?
