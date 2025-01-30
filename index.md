@@ -44,7 +44,7 @@ Figure 2: Teaching and Learning are stated core values of the University of Manc
 
 All your dreams are made, when you're chained to the learning and the teaching trade. What's the story, learning glory? There are many stories we can tell, from different perpectives:
 
-* **THE STORY OF THE STUDENTS** With over 40,000 `students` studying at the University of Manchester, it is not suprising to see the word `student` appear frequently, on average more than 9 times in an annual review. Its good to see the [strength of the student voice in Manchester](https://www.yoursay.manchester.ac.uk/) reflected in press releases.
+* **THE STORY OF THE STUDENTS** With over 40,000 `students` studying at the University of Manchester, it is not suprising to see the word `student` appear frequently, on average more than 9 times in an annual review. It is good to see the [strength of the student voice in Manchester](https://www.yoursay.manchester.ac.uk/) reflected in press releases.
 * **THE STORY OF THE RESEARCHERS** As a `research` intensive Russell Group University, it is not surprising to see the word `research` appear so frequently either, on average nearly 16 times in each annual review. This aligns closely with the vision the University has of itself and its core values
 * **THE STORY OF THE LEARNERS** There are lots of `students` and lots of `research`, but what are they actually `learning`? Mentions of `learn` are much less frequent, between ten and twenty times less frequent than `research`, when averaged over a ten year period. Sometimes, learning is completely absent. Students might be disappointed to learn that none of the skills and knowledge they've developed at University is newsworthy.
 * **THE STORY OF THE TEACHERS** There is lots of `research`, but how does that relate to `teaching`? Mentions of `teach` are much less frequent, between ten and twenty times less frequent than `research`, when averaged over a ten year period. Sometimes, teaching is completely absent. This is disappointing for anyone involved in teaching and learning. Why is there such a mismatch between the vision and the reality?
@@ -55,10 +55,10 @@ All your dreams are made, when you're chained to the learning and the teaching t
     + How much are teaching and learning (T&L) overlooked? 
     + How much are T&L undervalued or misunderstood?
     + How newsworthy is learning?
-    + Maybe its difficult to find good stories to write about, despite plenty of examples at [blogs.manchester.ac.uk/itl](https://blogs.manchester.ac.uk/itl/) and [www.staffnet.manchester.ac.uk/umitl/events/itl-conference](https://www.staffnet.manchester.ac.uk/umitl/events/itl-conference/)
+    + Maybe its difficult to find good stories to write about, despite plenty of examples at [blogs.manchester.ac.uk/itl](https://blogs.manchester.ac.uk/itl/) and [www.staffnet.manchester.ac.uk/umitl/events/itl-conference](https://www.staffnet.manchester.ac.uk/umitl/events/itl-conference/) see reference [1] below
     + It could be that learning isn't glamorous enough, too mundane and therefore not what most readers are expected to be interested in?
     + Maybe learners are just not _telling_ their stories? Or their stories are too personal or trivial to merit any media attention?
-    + Could teachers be too busy to have the time to tell and document their [pedagogical stories](https://en.wikipedia.org/wiki/Pedagogy)? See Reference [1]
+    + Could teachers be too busy to have the time to tell and document their [pedagogical stories](https://en.wikipedia.org/wiki/Pedagogy)? See Reference [2]
     + Why is this? What is going on? Are we missing something?
 * We'll leave these interesting questions as an exercise for the reader to answer. What do you think? 
 
@@ -66,23 +66,24 @@ Any queries or comments on this data and article are welcome and any constructiv
 
 ## References
 
-1. Hull, Duncan (2025) _Where Have All the Papers Gone? Priming the pump of pedagogical publishing in Europe_ in Proceedings of the 9th Conference on Computing Education Practice (CEP '25), Page 35, Edited by Maria Kallia and Ryan Crosby. Published by the Association for Computing Machinery (ACM), New York, NY, USA. DOI:[10.1145/3702212.3702224](https://doi.org/10.1145/3702212.3702224) 
-2. Table 1 below summarises and links to the original data used in Figure 1.
+1. Cobb, Hannah and Blake, Jennifer (2024) _The Institute of Teaching and Learning - Teaching and Learning Conference 2024 - Abstract Booklet_ DOI:[10.25416/NTR.25997314.v3](https://doi.org/10.25416/NTR.25997314.v3)
+2. Hull, Duncan (2025) _Where Have All the Papers Gone? Priming the pump of pedagogical publishing in Europe_ in Proceedings of the 9th Conference on Computing Education Practice (CEP '25), Page 35, Edited by Maria Kallia and Ryan Crosby. Published by the Association for Computing Machinery (ACM), New York, NY, USA. DOI:[10.1145/3702212.3702224](https://doi.org/10.1145/3702212.3702224) 
+3. Table 1 below summarises and links to the original data used in Figure 1.
 
 
 | [YEAR](https://github.com/dullhunk/cdyf/issues/995) / `WORDS`| `STUDENT*` | `LEARN*` | `TEACH*` | `SCHOLAR*` | `RESEARCH*` |   
-|---------------------------------------------------------------|------------|---------|----------|--------------|-------------|
-| [2024](https://github.com/dullhunk/cdyf/issues/983)           | 9          | 3       | 1        | 0            | 21          | 
-| [2023](https://github.com/dullhunk/cdyf/issues/984)           | 10         | 5       | 1        | 1            | 11          | 
-| [2022](https://github.com/dullhunk/cdyf/issues/985)           | 13         | 1       | 0        | 3            | 9           | 
-| [2021](https://github.com/dullhunk/cdyf/issues/986)           | 13         | 0       | 0        | 0            | 9           | 
-| [2020](https://github.com/dullhunk/cdyf/issues/987)           | 13         | 2       | 1        | 0            |   34        |
-| [2019](https://github.com/dullhunk/cdyf/issues/988)           | 2          | 1       | 1        | 0            |   13        |
-| [2018](https://github.com/dullhunk/cdyf/issues/989)           | 7          | 1       | 0        | 0            |   9        |
-| [2017](https://github.com/dullhunk/cdyf/issues/991)           | 15         | 0       | 0        | 1            |   11        |
-| [2016](https://github.com/dullhunk/cdyf/issues/993)           | 9          | 0       | 1        | 2            |   12        |
-| [2015](https://github.com/dullhunk/cdyf/issues/994)           | 1          | 0       | 1        | 1            |   10        |
-| Average                                                       | **9.1**    | **1.3** | **0.6**  | **0.9**      |   **15.9** |
+|---------------------------------------------------------------|------------|---------|----------|------------|-------------|
+| [2024](https://github.com/dullhunk/cdyf/issues/983)           | 9          | 3       | 1        | 0          | 21          | 
+| [2023](https://github.com/dullhunk/cdyf/issues/984)           | 10         | 5       | 1        | 1          | 11          | 
+| [2022](https://github.com/dullhunk/cdyf/issues/985)           | 13         | 1       | 0        | 3          | 9           | 
+| [2021](https://github.com/dullhunk/cdyf/issues/986)           | 13         | 0       | 0        | 0          | 9           | 
+| [2020](https://github.com/dullhunk/cdyf/issues/987)           | 13         | 2       | 1        | 0          | 34          |
+| [2019](https://github.com/dullhunk/cdyf/issues/988)           | 2          | 1       | 1        | 0          | 13          |
+| [2018](https://github.com/dullhunk/cdyf/issues/989)           | 7          | 1       | 0        | 0          | 9           |
+| [2017](https://github.com/dullhunk/cdyf/issues/991)           | 15         | 0       | 0        | 1          | 11          |
+| [2016](https://github.com/dullhunk/cdyf/issues/993)           | 9          | 0       | 1        | 2          | 12          |
+| [2015](https://github.com/dullhunk/cdyf/issues/994)           | 1          | 0       | 1        | 1          | 10          |
+| Average                                                       | **9.1**    | **1.3** | **0.6**  | **0.9**    | **15.9**    |
 
 
 
