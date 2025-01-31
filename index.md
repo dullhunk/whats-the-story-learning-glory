@@ -36,7 +36,7 @@ These core values are illustrated in Figure 2, lightly adapted from the original
 
 ![Image](https://github.com/user-attachments/assets/bcec2956-9886-4b79-8a4d-a586bb393ed4)
 
-Figure 2: Teaching and Learning are stated core values of the University of Manchester, alongside research and social responsibility
+**Figure 2:** Teaching and Learning are stated core values of the University of Manchester, alongside research (discovery) and (corporate) social responsibility
 
 ---
 
@@ -87,13 +87,13 @@ Any queries or comments on this data and article are welcome and any constructiv
 
 
 
-Table 1: Frequency of keywords in [annual reviews](https://github.com/dullhunk/cdyf/issues/995) published by the University of Manchester from 2015 to 2024
+**Table 1: ** Frequency of keywords in [annual reviews](https://github.com/dullhunk/cdyf/issues/995) published by the University of Manchester from 2015 to 2024
 
 ---
 
 ![both](https://github.com/user-attachments/assets/1b5ac949-8718-4c08-9069-3aea21fbd0ab)
 
-Figure 4: A visual summary of ten years at the University of Manchester from [2015](https://www.manchester.ac.uk/about/news/the-2015-review-of-the-year/) to [2024](https://www.manchester.ac.uk/about/news/the-2024-review-of-the-year/)
+**Figure 3:** A visual summary of ten years at the University of Manchester from [2015](https://www.manchester.ac.uk/about/news/the-2015-review-of-the-year/) to [2024](https://www.manchester.ac.uk/about/news/the-2024-review-of-the-year/)
 
 
 ---
