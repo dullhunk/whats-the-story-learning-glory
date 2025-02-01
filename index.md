@@ -87,7 +87,7 @@ Any queries or comments on this data and article are welcome and any constructiv
 
 
 
-**Table 1: ** Frequency of keywords in [annual reviews](https://github.com/dullhunk/cdyf/issues/995) published by the University of Manchester from 2015 to 2024
+**Table 1:** Frequency of keywords in [annual reviews](https://github.com/dullhunk/cdyf/issues/995) published by the University of Manchester from 2015 to 2024
 
 ---
 
