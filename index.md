@@ -64,6 +64,8 @@ All your dreams are made, when you're chained to the learning and the teaching t
 
 Any queries or comments on this data and article are welcome and any constructive criticism or suggestions for improvements can be emailed to `duncan.hull` @ `manchester.ac.uk`
 
+If you work in a Univeristy but not Manchester, how do the words in your organisations values match up to the words in their press releases?
+
 ## References
 
 1. Cobb, Hannah (2024) _The Institute of Teaching and Learning - Teaching and Learning Conference 2024 - Abstract Booklet_ Published by the National Teaching Archive DOI:[10.25416/NTR.25997314.v3](https://doi.org/10.25416/NTR.25997314.v3)
