@@ -40,7 +40,7 @@ These core values are illustrated in Figure 2, lightly adapted from the original
 
 ![Image](https://github.com/user-attachments/assets/bcec2956-9886-4b79-8a4d-a586bb393ed4)
 
-**Figure 2:** Teaching and Learning are stated core values of the University of Manchester, alongside research (discovery) and (corporate) social responsibility
+**Figure 2:** Teaching and Learning are stated core values of the University of Manchester, alongside research (discovery) and [(corporate) social responsibility](https://en.wikipedia.org/wiki/Corporate_social_responsibility) (CSR).
 
 ---
 
