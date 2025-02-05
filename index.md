@@ -68,7 +68,7 @@ All your dreams are made, when you're chained to the learning and the teaching t
 
 Any queries or comments on this data and article are welcome and any constructive criticism or suggestions for improvements can be emailed to `duncan.hull` @ `manchester.ac.uk`
 
-If you work in a Univeristy but not Manchester, how do the words in your organisations values match up to the words in their press releases?
+If you work in Higher Education but not at the University but not Manchester, how do the words in your organisations values match up to the words in their press releases?
 
 ## References
 
