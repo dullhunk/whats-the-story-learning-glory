@@ -53,12 +53,12 @@ All your dreams are made, when you're chained to the learning and the teaching t
 * **THE STORY OF THE LEARNERS** There are lots of `students` and lots of `research`, but what are they actually `learning`? Mentions of `learn` are much less frequent, between ten and twenty times less frequent than `research`, when averaged over a ten year period. Sometimes, learning is completely absent. Students might be disappointed to learn that none of the skills and knowledge they've developed at University is newsworthy.
 * **THE STORY OF THE TEACHERS** There is lots of `research`, but how does that relate to `teaching`? Mentions of `teach` are much less frequent, between ten and twenty times less frequent than `research`, when averaged over a ten year period. Sometimes, teaching is completely absent. This is disappointing and demoralising for anyone involved in teaching and learning. Why is there such a mismatch between the vision and the reality?
 * **THE STORY OF THE SCHOLARS** `Scholar` is a more ambiguous term, with multiple meanings. The word `scholar*` could refer to [winning a scholarship to study](https://www.manchester.ac.uk/study/undergraduate/fees-and-funding/scholarships-and-bursaries/), or it could mean [being a scholar (of anything)](https://scholar.google.com/) or it could mean [Scholarship of Teaching and Learning (SoTL)](https://www.staffnet.manchester.ac.uk/umitl/resources/scholarship-toolkit/). Whatever the meaning, scholar is an infrequently used word by media relations, although more commmon than `pedagog*` which appears exactly `zero` times in a decade. 
-* **THE STORY OF THE VALUES** Why are core values not reflected better in these annual reviews? Why is there a mismatch between the words in our values and the words in our press releases? 
+* **THE STORY OF THE VALUES** The value story looks different to the media story. Why are core values not reflected better in these annual reviews? Why is there a mismatch between the words in our values and the words in our press releases? 
     + Could it be that not much teaching takes place?
     + Perhaps there isn't any learning going on? 
     + How much are teaching and learning (T&L) overlooked? 
     + How much are T&L undervalued or misunderstood?
-    + How newsworthy is learning?
+    + How newsworthy is all this learning and teaching anyway?
     + Maybe its difficult to find good stories to write about, despite plenty of examples at [blogs.manchester.ac.uk/itl](https://blogs.manchester.ac.uk/itl/) and [www.staffnet.manchester.ac.uk/umitl/events/itl-conference](https://www.staffnet.manchester.ac.uk/umitl/events/itl-conference/) see reference [1] below
     + It could be that learning isn't glamorous enough, too mundane and therefore not what most readers are expected to be interested in?
     + Maybe learners are just not _telling_ their stories? Or their stories are too personal or trivial to merit any media attention?
