@@ -103,6 +103,13 @@ If you work in Higher Education but not at the University but not Manchester, ho
 
 
 ---
+
+Cite this article using:
+
+
+Hull, D. (2025) What’s the Story, Learning Glory: Why need to hear more stories about teaching and learning at the University of Manchester, White paper DOI:[10.5281/zenodo.15684409](https://dx.doi.org/10.5281/zenodo.15684409)
+
+
 <!--
 ### Jekyll Themes
 
